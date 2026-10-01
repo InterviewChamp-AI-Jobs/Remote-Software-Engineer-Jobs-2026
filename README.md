@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **1,327 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **1,329 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,327, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 1,329, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **1,327 are
 
 | Company | Job title | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| JetBrains | [Support Engineer (TeamCity)](https://interviewchamp.ai/jobs/jetbrains-support-engineer-teamcity-4979567101?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | Boston, Massachusetts; Foster City, California; Marlton, New Jersey; Remote, United States (Remote) | $144k–$216k | Oct 1 |
+| Bjak | [Principal Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-principal-software-engineer-785b11a6-5859-4432-b4bc-88142e3361c3?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | United States (Remote) |  | Oct 1 |
 | Bjak | [Lead Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-lead-software-engineer-ff565823-b101-4f26-ba37-4c4be140d096?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | United States (Remote) |  | Oct 1 |
 | Bjak | [Staff Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-staff-software-engineer-82847f3f-7167-41cf-bae0-37bf9ab80a42?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | United States (Remote) |  | Oct 1 |
 | Bjak | [Lead Engineer - AI Payments App](https://interviewchamp.ai/jobs/bjakcareer-lead-engineer-ai-payments-app-12046b40-d664-4adb-8305-de951d592db3?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | United States (Remote) |  | Oct 1 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **1,327 are
 | Airwallex | [Senior Solutions Engineer - Payments](https://interviewchamp.ai/jobs/airwallex-senior-solutions-engineer-payments-76b12ee4-3694-4c24-a88a-28d1eac2cd01?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | US - San Francisco (Remote) | $200k–$300k | Sep 29 |
 | EMA | [IT Engineer, US](https://interviewchamp.ai/jobs/ema-it-engineer-us-b38c0fdf-26d6-4505-91d5-25da7962997b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | San Francisco \| United States (Remote) (Remote) |  | Sep 29 |
 | Lambda | [Staff Connectivity Engineer](https://interviewchamp.ai/jobs/lambda-staff-connectivity-engineer-c059929c-ada5-4a59-a846-f64d0277c496?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | San Jose Office (Zanker) (Remote) | $349k–$465k | Sep 29 |
-| Anthropic | [Senior+ Software Engineer, Legal Tech](https://interviewchamp.ai/jobs/anthropic-senior-software-engineer-legal-tech-5435665008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY (Remote) | $320k–$485k | Sep 29 |
-| Harvey | [Technical Recruiter - Infrastructure](https://interviewchamp.ai/jobs/harvey-technical-recruiter-infrastructure-3c68bfae-085f-4a23-b5dd-d071ab1ea505?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs) | San Francisco (Remote) | $150k–$160k | Sep 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-01 08:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-01 09:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
