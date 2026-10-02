@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **1,374 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **1,378 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,374, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 1,378, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote software engineering roles, from employers' own career pages. **1,374 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Trust Wallet](https://trustwallet.com)** | **[Lead AI Engineer (LLM & Agents)](https://interviewchamp.ai/jobs/trust-wallet-lead-ai-engineer-llm-agents-87c32867-4e32-473c-b818-8eae0306f46a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Global (Remote) | Remote |  | Oct 2 |
+| **[New Era Technology](https://job-boards.greenhouse.io/neweratech)** | **[Senior Microsoft Purview Engineer](https://interviewchamp.ai/jobs/neweratech-senior-microsoft-purview-engineer-8838104002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote |  | Oct 2 |
+| **[Nectar Social](https://jobs.ashbyhq.com/nectar-social)** | **[Founding Mobile Engineer (React Native)](https://interviewchamp.ai/jobs/nectar-social-founding-mobile-engineer-react-native-81462c5a-84f4-406b-9ceb-e34c6cc10b4b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA (Remote) | Remote | $200k–$400k | Oct 2 |
 | **[Skydio](https://skydio.com)** | **[Solutions Engineer – State, Local, Educational (SLED)](https://interviewchamp.ai/jobs/skydio-solutions-engineer-state-local-educational-sled-3a04cc3a-0474-4500-8c61-330e25da45f8?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote (Remote) | Remote | $150k–$225k | Oct 2 |
 | **[Skydio](https://skydio.com)** | **[Solutions Engineer – Commercial](https://interviewchamp.ai/jobs/skydio-solutions-engineer-commercial-58f2986c-863f-4afb-8d6e-037fbf777394?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote (Remote) | Remote | $150k–$225k | Oct 2 |
 | **[Skydio](https://skydio.com)** | **[Solutions Engineer – National Security, Dock Subject Matter Expert](https://interviewchamp.ai/jobs/skydio-solutions-engineer-national-security-dock-subject-matter-expert-12022679-b207-4e7e-9ab7-9cd8e6c30272?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote (Remote) | Remote | $150k–$225k | Oct 2 |
@@ -179,10 +182,7 @@ Remote software engineering roles, from employers' own career pages. **1,374 are
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-ff9d5054-d0cf-457a-8e8a-ad6084cdc8e9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $156k–$182k | Sep 29 |
 | **[Instacart](https://instacart.com)** | **[Staff Android Engineer, Pick & Deliver](https://interviewchamp.ai/jobs/instacart-staff-android-engineer-pick-deliver-8237985?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote (Remote) | Remote | $265k–$279.5k | Sep 29 |
 | **[Legion](https://job-boards.greenhouse.io/legion)** | **[Principal Software Engineer, DevOps](https://interviewchamp.ai/jobs/legion-principal-software-engineer-devops-7998566003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, United States (Remote) | Remote | $220k–$255k | Sep 29 |
-| **[Extreme Networks](https://extremenetworks.com)** | **[Premier Resident Engineer](https://interviewchamp.ai/jobs/extremenetworks-premier-resident-engineer-bba6f316-655f-4b36-b108-2a3d661547c5?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Ohio, United States (Remote) | Remote |  | Sep 29 |
-| **[Blank Metal](https://jobs.ashbyhq.com/blank-metal)** | **[Senior Full Stack Engineer](https://interviewchamp.ai/jobs/blank-metal-senior-full-stack-engineer-55afc905-c186-4e4f-b17a-731276ee051d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Minneapolis, MN (Remote) | Remote |  | Sep 29 |
-| **[Addepar](https://addepar.com)** | **[Sales Engineer](https://interviewchamp.ai/jobs/addepar1-sales-engineer-8737480002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York, NY; Remote, USA (Remote) | Remote | $122k–$153k | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-02 03:37 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-02 06:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
