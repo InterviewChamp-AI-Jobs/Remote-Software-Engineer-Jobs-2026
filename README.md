@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **1,378 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **1,380 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,378, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 1,380, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **1,378 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[ShopBack](https://shopback.com)** | **[Software Engineer Intern](https://interviewchamp.ai/jobs/shopback-2-software-engineer-intern-e5f5e276-e7f7-43e0-a224-5259d242fe98?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City, New York (Remote) | Remote |  | Oct 2 |
+| **[ShopBack](https://shopback.com)** | **[Software Engineer Intern](https://interviewchamp.ai/jobs/shopback-2-software-engineer-intern-640ac3fb-dae5-4738-95b9-9cb80cc7ad15?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, California (Remote) | Remote |  | Oct 2 |
 | **[Trust Wallet](https://trustwallet.com)** | **[Lead AI Engineer (LLM & Agents)](https://interviewchamp.ai/jobs/trust-wallet-lead-ai-engineer-llm-agents-87c32867-4e32-473c-b818-8eae0306f46a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Global (Remote) | Remote |  | Oct 2 |
 | **[New Era Technology](https://job-boards.greenhouse.io/neweratech)** | **[Senior Microsoft Purview Engineer](https://interviewchamp.ai/jobs/neweratech-senior-microsoft-purview-engineer-8838104002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote |  | Oct 2 |
 | **[Nectar Social](https://jobs.ashbyhq.com/nectar-social)** | **[Founding Mobile Engineer (React Native)](https://interviewchamp.ai/jobs/nectar-social-founding-mobile-engineer-react-native-81462c5a-84f4-406b-9ceb-e34c6cc10b4b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA (Remote) | Remote | $200k–$400k | Oct 2 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **1,378 are
 | **[Spotify](https://spotify.com)** | **[Machine Learning Engineering Manager - Music](https://interviewchamp.ai/jobs/spotify-machine-learning-engineering-manager-music-638f1177-8a2b-4b43-9363-c7056b8ef929?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York, NY (Remote) | Remote |  | Sep 29 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Integrations Engineer](https://interviewchamp.ai/jobs/clera-senior-integrations-engineer-0e822d67-7681-4db2-94ad-f34a180e138e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote (Remote) | Remote | $130k–$160k | Sep 29 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-ff9d5054-d0cf-457a-8e8a-ad6084cdc8e9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $156k–$182k | Sep 29 |
-| **[Instacart](https://instacart.com)** | **[Staff Android Engineer, Pick & Deliver](https://interviewchamp.ai/jobs/instacart-staff-android-engineer-pick-deliver-8237985?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote (Remote) | Remote | $265k–$279.5k | Sep 29 |
-| **[Legion](https://job-boards.greenhouse.io/legion)** | **[Principal Software Engineer, DevOps](https://interviewchamp.ai/jobs/legion-principal-software-engineer-devops-7998566003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, United States (Remote) | Remote | $220k–$255k | Sep 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-02 06:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-02 09:38 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
