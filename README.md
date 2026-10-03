@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **1,469 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **1,468 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,469, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 1,468, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **1,469 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Senior Principal Autonomy Engineer (R6162)](https://interviewchamp.ai/jobs/shieldai-senior-principal-autonomy-engineer-r6162-e72cadad-ae71-4362-a324-6fd018ed0523?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote | $330k–$500k | Oct 3 |
 | **[Reddit](https://reddit.com)** | **[Staff Machine Learning Engineer, Ads Creative Effectiveness](https://interviewchamp.ai/jobs/reddit-staff-machine-learning-engineer-ads-creative-effectiveness-8250389?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States (Remote) | Remote | $230k–$322k | Oct 2 |
 | **[Smartsheet](https://smartsheet.com)** | **[Sr. Software Engineer II (Remote Eligible)](https://interviewchamp.ai/jobs/smartsheet-sr-software-engineer-ii-remote-eligible-8250247?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | -REMOTE, USA- (Remote) | Remote | $145k–$210k | Oct 2 |
 | **[Vanta](https://vanta.com)** | **[Staff Software Engineer, Program Structure & Trust](https://interviewchamp.ai/jobs/vanta-staff-software-engineer-program-structure-trust-9962b3c8-f1c4-4ad1-9308-7c8df6a28b28?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote U.S. (Remote) | Remote | $260k–$306k | Oct 2 |
@@ -116,7 +117,6 @@ Remote software engineering roles, from employers' own career pages. **1,469 are
 | **[Pinterest](https://pinterest.com)** | **[Manager II, Machine Learning Engineering-Content Foundation](https://interviewchamp.ai/jobs/pinterest-manager-ii-machine-learning-engineering-content-foundation-8152750?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA, US; Remote, CA, US (Remote) | Remote | $222.7k–$389.8k | Oct 1 |
 | **[SI-BONE](https://job-boards.greenhouse.io/siboneinc)** | **[Software Product Manager](https://interviewchamp.ai/jobs/siboneinc-software-product-manager-5253620007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA (Remote) | Remote |  | Oct 1 |
 | **[Reddit](https://reddit.com)** | **[Staff Machine Learning Engineer, Ads ML Efficiency](https://interviewchamp.ai/jobs/reddit-staff-machine-learning-engineer-ads-ml-efficiency-8247280?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States (Remote) | Remote | $230k–$322k | Oct 1 |
-| **[SmithRx](https://job-boards.greenhouse.io/smithrx)** | **[Senior Staff Software Engineer](https://interviewchamp.ai/jobs/smithrx-senior-staff-software-engineer-8848007002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote | $216k–$270k | Oct 1 |
 | **[Anduril Industries](https://anduril.com)** | **[Senior Supplier Industrialization Engineer, Electromagnetic Warfare](https://interviewchamp.ai/jobs/andurilindustries-senior-supplier-industrialization-engineer-electromagnetic-warfare-5254411007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote |  | Oct 1 |
 | **[DEPT®](https://job-boards.greenhouse.io/dept)** | **[Architect, Software Engineering (Adobe AEP Architect)](https://interviewchamp.ai/jobs/dept-architect-software-engineering-adobe-aep-architect-8247146?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | NY, US, CA, US, IL, US - Remote (Remote) | Remote | $138k–$175k | Oct 1 |
 | **[Oklo](https://job-boards.greenhouse.io/oklo)** | **[Senior Nuclear Criticality Safety Engineer](https://interviewchamp.ai/jobs/oklo-senior-nuclear-criticality-safety-engineer-6214372004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Santa Clara, CA or Remote (Remote) | Remote | $135k–$175k | Oct 1 |
@@ -185,4 +185,4 @@ Remote software engineering roles, from employers' own career pages. **1,469 are
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 00:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 03:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
