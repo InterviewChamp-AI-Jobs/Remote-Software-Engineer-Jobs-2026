@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **1,468 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **1,469 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,468, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 1,469, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **1,468 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[Product Manager \| Software](https://interviewchamp.ai/jobs/plasmidsaurus-product-manager-software-eb8223fb-6489-42ba-8cee-bc553e876fda?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $175k–$235k | Oct 3 |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Systems IT Engineer (R6157)](https://interviewchamp.ai/jobs/shieldai-staff-systems-it-engineer-r6157-3cf03a5f-d8a4-477e-94d7-6879618c5b3e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote | $120k–$180k | Oct 3 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Senior Principal Autonomy Engineer (R6162)](https://interviewchamp.ai/jobs/shieldai-senior-principal-autonomy-engineer-r6162-e72cadad-ae71-4362-a324-6fd018ed0523?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote | $330k–$500k | Oct 3 |
 | **[Reddit](https://reddit.com)** | **[Staff Machine Learning Engineer, Ads Creative Effectiveness](https://interviewchamp.ai/jobs/reddit-staff-machine-learning-engineer-ads-creative-effectiveness-8250389?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States (Remote) | Remote | $230k–$322k | Oct 2 |
 | **[Smartsheet](https://smartsheet.com)** | **[Sr. Software Engineer II (Remote Eligible)](https://interviewchamp.ai/jobs/smartsheet-sr-software-engineer-ii-remote-eligible-8250247?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | -REMOTE, USA- (Remote) | Remote | $145k–$210k | Oct 2 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **1,468 are
 | **[BusPatrol](https://jobs.ashbyhq.com/buspatrol)** | **[Sr Platform Security Engineer](https://interviewchamp.ai/jobs/buspatrol-sr-platform-security-engineer-e47215df-7e4e-4751-a090-b14f2340f625?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | TX - Austin (Remote) | Remote | $130k–$150k | Sep 30 |
 | **[Twilio](https://twilio.com)** | **[Principal Presales Engineer](https://interviewchamp.ai/jobs/twilio-principal-presales-engineer-8237699?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - US (Remote) | Remote |  | Sep 30 |
 | **[Data Systems Analysts, Inc.](https://job-boards.greenhouse.io/datasystemsanalystsinc)** | **[Power Platform Developer](https://interviewchamp.ai/jobs/datasystemsanalystsinc-power-platform-developer-5439046008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote | $115k–$138k | Sep 30 |
-| **[The Copper River Family of Companies](https://job-boards.greenhouse.io/crfamilyofcompanies)** | **[Certified Cost Engineer](https://interviewchamp.ai/jobs/crfamilyofcompanies-certified-cost-engineer-8009353003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote |  | Sep 30 |
-| **[Hippocratic AI](https://jobs.ashbyhq.com/Hippocratic%20AI)** | **[Forward Deployed Engineer (Mid/Senior) - Remote w/Travel](https://interviewchamp.ai/jobs/hippocratic-ai-forward-deployed-engineer-mid-senior-remote-w-travel-873d8ad7-9f41-48af-82a9-93ea6ed9139d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote |  | Sep 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 03:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 06:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
