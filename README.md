@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **1,621 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **1,622 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,621, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 1,622, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **1,621 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Samsara](https://samsara.com)** | **[Staff Firmware Engineer](https://interviewchamp.ai/jobs/samsara-staff-firmware-engineer-8081545?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - US (Remote) | Remote |  | Oct 7 |
 | **[ALTEN Technology USA](https://job-boards.greenhouse.io/altentechnologyusa)** | **[Embedded Linux / High-Compute Engineer](https://interviewchamp.ai/jobs/altentechnologyusa-embedded-linux-high-compute-engineer-5259789007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote | $130k–$140k | Oct 6 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Software Engineer, Life Sciences](https://interviewchamp.ai/jobs/openai-software-engineer-life-sciences-4f0d64b8-bfa7-4c30-9972-a10d74b49075?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $347k–$450k | Oct 6 |
 | **[ALTEN Technology USA](https://job-boards.greenhouse.io/altentechnologyusa)** | **[MCU & Manufacturing Test Engineer](https://interviewchamp.ai/jobs/altentechnologyusa-mcu-manufacturing-test-engineer-5259781007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Remote) | Remote | $130k–$140k | Oct 6 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **1,621 are
 | **[ShopBack](https://shopback.com)** | **[Software Engineer Intern](https://interviewchamp.ai/jobs/shopback-2-software-engineer-intern-640ac3fb-dae5-4738-95b9-9cb80cc7ad15?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, California (Remote) | Remote |  | Oct 2 |
 | **[Trust Wallet](https://trustwallet.com)** | **[Lead AI Engineer (LLM & Agents)](https://interviewchamp.ai/jobs/trust-wallet-lead-ai-engineer-llm-agents-87c32867-4e32-473c-b818-8eae0306f46a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Global (Remote) | Remote |  | Oct 2 |
 | **[Nectar Social](https://jobs.ashbyhq.com/nectar-social)** | **[Founding Mobile Engineer (React Native)](https://interviewchamp.ai/jobs/nectar-social-founding-mobile-engineer-react-native-81462c5a-84f4-406b-9ceb-e34c6cc10b4b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA (Remote) | Remote | $200k–$400k | Oct 2 |
-| **[Skydio](https://skydio.com)** | **[Solutions Engineer – State, Local, Educational (SLED)](https://interviewchamp.ai/jobs/skydio-solutions-engineer-state-local-educational-sled-3a04cc3a-0474-4500-8c61-330e25da45f8?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote (Remote) | Remote | $150k–$225k | Oct 2 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-07 00:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-07 03:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
