@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **1,657 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **1,659 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 1,657, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 1,659, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **1,657 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Proxima](https://jobs.ashbyhq.com/proxima)** | **[ML Engineer](https://interviewchamp.ai/jobs/proxima-ml-engineer-18254b43-b27c-4ed5-9606-71acf3d76578?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 8 |
+| **[Mariner](https://jobs.ashbyhq.com/mariner-careers)** | **[Security Engineer (Product & Business Enablement)](https://interviewchamp.ai/jobs/mariner-careers-security-engineer-product-business-enablement-7a17124d-9466-4af7-8fec-c6a204adcf60?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $115k–$145k | Oct 8 |
 | **[Artera](https://jobs.lever.co/artera)** | **[Machine Learning Engineer (Model Dev)](https://interviewchamp.ai/jobs/artera-machine-learning-engineer-model-dev-e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote-US | Remote | $140k–$180k | Oct 8 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Product Security Engineer](https://interviewchamp.ai/jobs/chainguard-senior-product-security-engineer-4716922006?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $157k–$184k | Oct 8 |
 | **[BlackSky](https://boards.greenhouse.io/blacksky)** | **[Staff Mission Solutions Engineer](https://interviewchamp.ai/jobs/blacksky-staff-mission-solutions-engineer-8869170002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote-USA; Seattle, WA; Herndon, VA | Remote | $165k–$205k | Oct 8 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **1,657 are
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Systems IT Engineer (R6157)](https://interviewchamp.ai/jobs/shieldai-staff-systems-it-engineer-r6157-3cf03a5f-d8a4-477e-94d7-6879618c5b3e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $120k–$180k | Oct 3 |
 | **[Reddit](https://reddit.com)** | **[Staff Machine Learning Engineer, Ads Creative Effectiveness](https://interviewchamp.ai/jobs/reddit-staff-machine-learning-engineer-ads-creative-effectiveness-8250389?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | $230k–$322k | Oct 2 |
 | **[LangChain](https://langchain.com)** | **[Analytics Engineer](https://interviewchamp.ai/jobs/langchain-analytics-engineer-e10513d4-1b8d-492f-a6af-94bdae366a1a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - US | Remote | $140k–$180k | Oct 2 |
-| **[Smartsheet](https://smartsheet.com)** | **[Sr. Software Engineer II (Remote Eligible)](https://interviewchamp.ai/jobs/smartsheet-sr-software-engineer-ii-remote-eligible-8250247?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | -REMOTE, USA- | Remote | $145k–$210k | Oct 2 |
-| **[Vanta](https://vanta.com)** | **[Staff Software Engineer, Program Structure & Trust](https://interviewchamp.ai/jobs/vanta-staff-software-engineer-program-structure-trust-9962b3c8-f1c4-4ad1-9308-7c8df6a28b28?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote U.S. | Remote | $260k–$306k | Oct 2 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-08 09:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 12:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
