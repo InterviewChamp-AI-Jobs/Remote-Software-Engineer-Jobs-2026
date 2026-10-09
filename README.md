@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **2,838 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **2,840 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,838, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 2,840, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote software engineering roles, from employers' own career pages. **2,838 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Mozilla](https://mozilla.org)** | **[Staff Firefox Performance Engineer](https://interviewchamp.ai/jobs/mozilla-staff-firefox-performance-engineer-8248052?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote US | Remote | $163k–$218k | Oct 9 |
+| **[SnapMagic](https://jobs.ashbyhq.com/snapmagic)** | **[Software Engineer, Electronics Design](https://interviewchamp.ai/jobs/snapmagic-software-engineer-electronics-design-1b3b7db0-975d-41bc-9b9c-a09af8a095c5?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Office (Remote) | Remote | $130k–$180k | Oct 9 |
+| **[Mozilla](https://mozilla.org)** | **[Sr. Staff Software Engineer, Browser (New Products)](https://interviewchamp.ai/jobs/mozilla-sr-staff-software-engineer-browser-new-products-8265116?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote US | Remote | $195k–$260k | Oct 9 |
 | **[Coinbase](https://www.coinbase.com)** | **[Senior Software Engineer, Backend/Fullstack (Coinbase Advisor - Agentic Trading)](https://interviewchamp.ai/jobs/coinbase-senior-software-engineer-backend-fullstack-coinbase-advisor-agentic-trading-8174232?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $186.1k–$218.9k | Oct 8 |
 | **[Databricks](https://databricks.com)** | **[Staff Security Engineer, Incident Response](https://interviewchamp.ai/jobs/databricks-staff-security-engineer-incident-response-8841960002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - California | Remote |  | Oct 8 |
 | **[Adaption Labs](https://jobs.ashbyhq.com/adaption)** | **[Developer Relations Engineer (6 Month Contract)](https://interviewchamp.ai/jobs/adaption-developer-relations-engineer-6-month-contract-2b49aef7-9efb-4ac1-8bb7-47ca3fac3525?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 8 |
@@ -179,10 +182,7 @@ Remote software engineering roles, from employers' own career pages. **2,838 are
 | **[Recursion](https://job-boards.greenhouse.io/recursionpharmaceuticals)** | **[Staff Engineer, Identity & Access Management (IAM)](https://interviewchamp.ai/jobs/recursionpharmaceuticals-staff-engineer-identity-access-management-iam-8262864?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote Opportunity - United States; Salt Lake City, Utah | Remote | $180.6k–$212.9k | Oct 7 |
 | **[Replicant](https://jobs.ashbyhq.com/Replicant)** | **[Support Software Engineer](https://interviewchamp.ai/jobs/replicant-support-software-engineer-620ed75e-4d20-40c4-b1e3-21604f99c399?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 7 |
 | **[GitLab](https://gitlab.com)** | **[Senior Professional Services Engineer - PubSec - US Only](https://interviewchamp.ai/jobs/gitlab-senior-professional-services-engineer-pubsec-us-only-8838331002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $136.1k–$230k | Oct 7 |
-| **[Scout AI](https://job-boards.greenhouse.io/scoutai)** | **[GTM Customer Engineer](https://interviewchamp.ai/jobs/scoutai-gtm-customer-engineer-5446932008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $150k–$180k | Oct 7 |
-| **[Ditto](https://jobs.ashbyhq.com/ditto)** | **[Senior Forward Deployed Engineer - Platform](https://interviewchamp.ai/jobs/ditto-senior-forward-deployed-engineer-platform-44047e96-9d96-4ea9-9287-dcd112a9542a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA (Remote) | Remote | $223k–$259k | Oct 7 |
-| **[GoFasti](https://careers.gofasti.com)** | **[1161 - Senior Full-Stack Software Engineer](https://interviewchamp.ai/jobs/gofasti-1161-senior-full-stack-software-engineer-6219636004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | From $10k | Oct 7 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-09 00:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-09 03:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
