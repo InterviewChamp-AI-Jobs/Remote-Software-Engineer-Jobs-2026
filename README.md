@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **2,955 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **2,947 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,955, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 2,947, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,12 +32,12 @@ Remote software engineering roles, from employers' own career pages. **2,955 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Forward Deployment Engineer](https://interviewchamp.ai/jobs/clera-forward-deployment-engineer-d986c71d-1f3e-425b-b4c1-13ce1012c43b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 11 |
 | **[Faros AI](https://jobs.ashbyhq.com/faros-ai)** | **[Lead Software Engineer - Frontend](https://interviewchamp.ai/jobs/faros-ai-lead-software-engineer-frontend-8f94a7f5-6cc1-4f3a-b939-8d52dbdbcd32?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Redwood City (Remote) | Remote | $210k–$250k | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Product Designer/Engineer](https://interviewchamp.ai/jobs/clera-founding-product-designer-engineer-e67943d6-36a4-4807-929a-f6996618540a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $160k–$220k | Oct 11 |
 | **[Snowflake](https://snowflake.com)** | **[Staff Software Engineer – Engineering Systems, Continuous Integration Team](https://interviewchamp.ai/jobs/snowflake-staff-software-engineer-engineering-systems-continuous-integration-team-f38ad1b0-00a6-490d-afcf-80a78c8b8aed?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US-WA-Bellevue (Remote) | Remote | $236k–$339.2k | Oct 11 |
 | **[SMA America](https://job-boards.greenhouse.io/smaamerica)** | **[Senior Failure Analysis Engineer, Medium Voltage Transformers and Switchgear](https://interviewchamp.ai/jobs/smaamerica-senior-failure-analysis-engineer-medium-voltage-transformers-and-switchgear-5262982007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, United States | Remote | $106k–$150k | Oct 10 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Solutions Engineer](https://interviewchamp.ai/jobs/clera-senior-solutions-engineer-ed3508fe-fd6a-417b-bd9e-f86935ec50c3?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Chicago (Remote) | Remote | $140k–$180k | Oct 10 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[AI Infrastructure / Product Engineer](https://interviewchamp.ai/jobs/clera-ai-infrastructure-product-engineer-1de10a46-e916-466e-b2ab-bfdd5fd38e1a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote | $180k–$260k | Oct 10 |
 | **[Tailscale](https://job-boards.greenhouse.io/tailscale)** | **[Infrastructure Engineer](https://interviewchamp.ai/jobs/tailscale-infrastructure-engineer-4733404005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (United States) | Remote | $181k–$226k | Oct 10 |
 | **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[Senior Platform Engineer, Lab Infrastructure and Security](https://interviewchamp.ai/jobs/plasmidsaurus-senior-platform-engineer-lab-infrastructure-and-security-d0a5eb86-0d1a-476d-b5ee-16ee3abda03f?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $205k–$250k | Oct 10 |
 | **[Luma Health](https://job-boards.greenhouse.io/lumahealth)** | **[Sales Engineer](https://interviewchamp.ai/jobs/lumahealth-sales-engineer-8882744002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote USA | Remote | $120k–$140k | Oct 10 |
@@ -185,4 +185,4 @@ Remote software engineering roles, from employers' own career pages. **2,955 are
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 15:37 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 18:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
