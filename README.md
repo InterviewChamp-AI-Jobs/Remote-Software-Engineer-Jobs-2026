@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **2,934 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **2,935 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,934, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 2,935, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Remote software engineering roles, from employers' own career pages. **2,934 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Nebius](https://careers.nebius.com)** | **[Senior Customer AI Engineer](https://interviewchamp.ai/jobs/nebius-senior-customer-ai-engineer-5000064101?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | $209.8k–$262.2k | Oct 12 |
+| **[Ultralytics](https://jobs.ashbyhq.com/ultralytics)** | **[Founding Engineer](https://interviewchamp.ai/jobs/ultralytics-founding-engineer-bd36dfdb-2ccd-4eee-a4a6-6b04c471be72?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 12 |
+| **[CuspAI](https://jobs.ashbyhq.com/cuspai)** | **[AI Labs Ecosystem Developer](https://interviewchamp.ai/jobs/cuspai-ai-labs-ecosystem-developer-2ce4b90d-7613-4836-880c-d177572379be?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | USA (Remote) | Remote |  | Oct 12 |
+| **[Cmgx](https://jobs.lever.co/cmgx)** | **[Senior Frontend Engineer (Analytics Product Lead)](https://interviewchamp.ai/jobs/cmgx-senior-frontend-engineer-analytics-product-lead-25cc0eec-28ce-4d06-98c5-c1c6fbe56c3b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $180k–$200k | Oct 12 |
+| **[Perfect Venue](https://jobs.ashbyhq.com/perfect-venue)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/perfect-venue-forward-deployed-engineer-4a2e290f-e855-4e69-8196-002dbbb0600b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Office (Remote) | Remote |  | Oct 12 |
 | **[Nivoda](https://jobs.ashbyhq.com/Nivoda)** | **[Senior AI/ML Engineer](https://interviewchamp.ai/jobs/nivoda-senior-ai-ml-engineer-65b7d93b-a5b1-408e-a5d8-e2edade5b59e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US (Remote) | Remote |  | Oct 11 |
 | **[Nivoda](https://jobs.ashbyhq.com/Nivoda)** | **[Senior Fullstack Engineer, Growth](https://interviewchamp.ai/jobs/nivoda-senior-fullstack-engineer-growth-04d28b9f-c8a5-4dec-a12d-f3a3b8240c6c?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US (Remote) | Remote | $200k–$280k | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Forward Deployment Engineer](https://interviewchamp.ai/jobs/clera-forward-deployment-engineer-d986c71d-1f3e-425b-b4c1-13ce1012c43b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 11 |
@@ -177,12 +182,7 @@ Remote software engineering roles, from employers' own career pages. **2,934 are
 | **[Ensono](https://ensono.com)** | **[Senior Mainframe Systems Programmer - Datacom](https://interviewchamp.ai/jobs/ensono-senior-mainframe-systems-programmer-datacom-4740801005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | $85k–$148k | Oct 8 |
 | **[Designed Conveyor Systems](https://job-boards.greenhouse.io/designedconveyorsystems)** | **[Sr. Software Analyst, Warehouse Execution & Control Systems (WES/WCS)](https://interviewchamp.ai/jobs/designedconveyorsystems-sr-software-analyst-warehouse-execution-control-systems-wes-wcs-8012586003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 8 |
 | **[Par Technology](https://jobs.ashbyhq.com/par%20technology)** | **[Enterprise Sales Engineer](https://interviewchamp.ai/jobs/par-technology-enterprise-sales-engineer-75004c02-a887-4b9d-8ed6-b5a05a77141d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Texas | Remote | $90k–$120k | Oct 8 |
-| **[Tanium](https://job-boards.greenhouse.io/tanium)** | **[Senior Security Engineer - Vulnerability Research](https://interviewchamp.ai/jobs/tanium-senior-security-engineer-vulnerability-research-8250452?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, US | Remote |  | Oct 8 |
-| **[Doppel](https://jobs.ashbyhq.com/Doppel)** | **[Software Engineer, Email](https://interviewchamp.ai/jobs/doppel-software-engineer-email-1144603c-07da-48b9-b838-da27ebbd2f1b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, New York (Remote) | Remote | $150k–$350k | Oct 8 |
-| **[Stuut AI](https://jobs.ashbyhq.com/stuut-ai)** | **[Senior Infrastructure & Reliability Engineer](https://interviewchamp.ai/jobs/stuut-ai-senior-infrastructure-reliability-engineer-00470f4f-5c88-4ba7-9002-975a878afb30?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote | $250k–$300k | Oct 8 |
-| **[Apollo Information Systems](https://jobs.ashbyhq.com/apollo-information-systems)** | **[Cybersecurity Engineer](https://interviewchamp.ai/jobs/apollo-information-systems-cybersecurity-engineer-35d03ecb-143c-497f-aedf-985063cb30d7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote US | Remote | $60k–$80k | Oct 8 |
-| **[Blueland](https://blueland.com)** | **[Analytics Engineer Contractor](https://interviewchamp.ai/jobs/blueland-analytics-engineer-contractor-d7f4e61f-9fce-4e02-bd53-2f289a3e9449?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 8 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-12 06:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-12 09:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
