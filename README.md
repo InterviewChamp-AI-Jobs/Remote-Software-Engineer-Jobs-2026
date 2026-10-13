@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **2,974 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **2,972 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 2,974, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 2,972, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **2,974 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[ElevenLabs](https://elevenlabs.io)** | **[Product Engineer - ElevenAPI](https://interviewchamp.ai/jobs/elevenlabs-product-engineer-elevenapi-108c99e6-ba2b-44a0-b830-7d535e14a152?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 13 |
 | **[Ethos Life](https://ethoslife.com)** | **[Salesforce Developer](https://interviewchamp.ai/jobs/ethoslife-salesforce-developer-8877399002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote US | Remote |  | Oct 13 |
 | **[Decagon](https://jobs.ashbyhq.com/decagon)** | **[Staff Software Engineer, Enterprise Product](https://interviewchamp.ai/jobs/decagon-staff-software-engineer-enterprise-product-52943ef2-e3ed-44d8-ab3f-17dd28d0376d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $200k–$400k | Oct 13 |
 | **[Helius](https://jobs.ashbyhq.com/helius)** | **[Developer Advocate, Data Platform](https://interviewchamp.ai/jobs/helius-developer-advocate-data-platform-a733fe08-8d7f-4f4e-ae26-57d83b1716c6?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 13 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **2,974 are
 | **[GreyNoise Intelligence](https://boards.greenhouse.io/greynoiseintelligence)** | **[Sales Engineer - DACH](https://interviewchamp.ai/jobs/greynoiseintelligence-sales-engineer-dach-4742656005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States or Remote | Remote |  | Oct 9 |
 | **[Coinbase](https://www.coinbase.com)** | **[Enterprise Engineer](https://interviewchamp.ai/jobs/coinbase-enterprise-engineer-8265721?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $135.3k–$159.2k | Oct 9 |
 | **[Affirm](https://affirm.com)** | **[Senior Software Engineer, Fullstack (App Experience)](https://interviewchamp.ai/jobs/affirm-senior-software-engineer-fullstack-app-experience-7981723003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote US | Remote | $195k–$255k | Oct 9 |
-| **[Coinbase](https://www.coinbase.com)** | **[Staff Machine Learning Engineer](https://interviewchamp.ai/jobs/coinbase-staff-machine-learning-engineer-8267151?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $218k–$256.5k | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-13 06:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-13 09:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
