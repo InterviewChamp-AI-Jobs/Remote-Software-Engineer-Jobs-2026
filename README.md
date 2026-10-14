@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,044 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,042 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,044, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,042, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **3,044 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Duck Duck Go](https://jobs.ashbyhq.com/duck-duck-go)** | **[Senior C++ Engineer](https://interviewchamp.ai/jobs/duck-duck-go-senior-c-engineer-af93b075-d60a-4686-abeb-5949206d2f53?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $178.5k | Oct 14 |
 | **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Hardware Engineer, FPGA](https://interviewchamp.ai/jobs/normalcomputing-hardware-engineer-fpga-ce3e3ffa-5001-42b5-851d-d5dc46e5d463?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote | $250k–$340k | Oct 14 |
 | **[Upstart](https://careers.upstart.com)** | **[Software Engineer, Unsecured Installments](https://interviewchamp.ai/jobs/upstart-software-engineer-unsecured-installments-8274702?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States \| Remote | Remote | $142k–$196.6k | Oct 14 |
 | **[Upstart](https://careers.upstart.com)** | **[Senior Software Engineer, Unsecured Installments](https://interviewchamp.ai/jobs/upstart-senior-software-engineer-unsecured-installments-8268362?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States \| Remote | Remote | $166.9k–$230.9k | Oct 14 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,044 are
 | **[Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech)** | **[Staff Embedded Software Engineer, Infotainment Connectivity](https://interviewchamp.ai/jobs/rivianvw-tech-staff-embedded-software-engineer-infotainment-connectivity-c5b1e362-2473-41f7-a1ec-663409d1bc07?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto, California (Remote) | Remote | $186k–$255.6k | Oct 13 |
 | **[Allspice](https://jobs.ashbyhq.com/allspice)** | **[LLM Platform Engineer](https://interviewchamp.ai/jobs/allspice-llm-platform-engineer-6d5963b2-5c5e-4dec-a998-9e4b15b32195?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Boston (Remote) | Remote | $160k–$190k | Oct 13 |
 | **[Tech Holding](https://job-boards.greenhouse.io/techholding)** | **[Machine Learning Engineer \| Contract \| Remote](https://interviewchamp.ai/jobs/techholding-machine-learning-engineer-contract-remote-4743066005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | USA, Remote | Remote |  | Oct 12 |
-| **[MANSCAPED](https://job-boards.greenhouse.io/manscaped)** | **[IT Infrastructure & Support Analyst](https://interviewchamp.ai/jobs/manscaped-it-infrastructure-support-analyst-5450482008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $80k–$90k | Oct 12 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-14 07:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-14 09:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
