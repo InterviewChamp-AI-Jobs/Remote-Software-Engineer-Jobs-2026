@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,166 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,167 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,166, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,167, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,7 +32,11 @@ Remote software engineering roles, from employers' own career pages. **3,166 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[AlertMedia](https://job-boards.greenhouse.io/alertmedia)** | **[Sr. AI/ML Engineer (US)](https://interviewchamp.ai/jobs/alertmedia-sr-ai-ml-engineer-us-8880747002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, United States or Austin, TX HQ | Remote |  | Oct 15 |
+| **[MGT Insurance](https://jobs.ashbyhq.com/mgtinsurance)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/mgtinsurance-senior-data-engineer-137899ca-78ee-45c0-979e-6170d3ab385e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Denver, CO (Remote) | Remote | $150k–$200k | Oct 16 |
+| **[Oklo](https://job-boards.greenhouse.io/oklo)** | **[Mechatronics Engineer](https://interviewchamp.ai/jobs/oklo-mechatronics-engineer-6226315004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Oak Ridge, TN or Remote | Remote | $100k–$195k | Oct 16 |
+| **[Karat](https://job-boards.greenhouse.io/karat)** | **[Community Engineer (SWE3), Brilliant Black Minds (United States)](https://interviewchamp.ai/jobs/karat-community-engineer-swe3-brilliant-black-minds-united-states-8893714002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (United States - Select States) | Remote | $139.6k–$162.1k | Oct 16 |
+| **[Affirm](https://affirm.com)** | **[Software Engineer II, Mobile (Card Acquisition)](https://interviewchamp.ai/jobs/affirm-software-engineer-ii-mobile-card-acquisition-8032173003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote US | Remote | $165k–$225k | Oct 16 |
+| **[Alpaca](https://job-boards.greenhouse.io/alpaca)** | **[Full-Stack Platform Engineer](https://interviewchamp.ai/jobs/alpaca-full-stack-platform-engineer-6226254004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Americas | Remote |  | Oct 16 |
 | **[Parkade](https://jobs.ashbyhq.com/parkade)** | **[Staff Front End Software Engineer](https://interviewchamp.ai/jobs/parkade-staff-front-end-software-engineer-a21137ac-2bbb-487d-81c0-a144ae016fbf?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $180k–$200k | Oct 15 |
 | **[Honeycomb.io](https://job-boards.greenhouse.io/honeycomb)** | **[Software Engineer I - LLM Observability](https://interviewchamp.ai/jobs/honeycomb-software-engineer-i-llm-observability-5452584008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | $160k–$180k | Oct 15 |
 | **[Honeycomb.io](https://job-boards.greenhouse.io/honeycomb)** | **[Senior Software Engineer II - LLM Observability](https://interviewchamp.ai/jobs/honeycomb-senior-software-engineer-ii-llm-observability-5452445008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | $183.3k–$206k | Oct 15 |
@@ -178,11 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,166 are
 | **[Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech)** | **[Sr. Embedded Software Engineer](https://interviewchamp.ai/jobs/rivianvw-tech-sr-embedded-software-engineer-b8f3847b-e656-4b0d-b26b-02d7b860be92?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto, California (Remote) | Remote | $146.9k–$220.3k | Oct 14 |
 | **[Flex](https://job-boards.greenhouse.io/flex)** | **[Senior Software Development Engineer in Test (SDET)](https://interviewchamp.ai/jobs/flex-senior-software-development-engineer-in-test-sdet-4743803005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Global | Remote | $136k–$170k | Oct 14 |
 | **[SonderMind](https://jobs.ashbyhq.com/sondermind)** | **[Sr. Staff Data Engineer](https://interviewchamp.ai/jobs/sondermind-sr-staff-data-engineer-7a434307-d66a-4580-b6dc-bddece03b999?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Denver, CO (Remote) | Remote | $180k–$200k | Oct 14 |
-| **[Saronic](https://jobs.ashbyhq.com/saronic)** | **[Marine Quality Engineer](https://interviewchamp.ai/jobs/saronic-marine-quality-engineer-8f25b4cd-04db-463c-a662-566c03430df3?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Franklin, LA (Remote) | Remote |  | Oct 14 |
-| **[Rushdown Studios](https://job-boards.greenhouse.io/rushdownstudios)** | **[Senior Engine Programmer](https://interviewchamp.ai/jobs/rushdownstudios-senior-engine-programmer-4452190009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $100k–$150k | Oct 14 |
-| **[LPA, Inc.](https://jobs.ashbyhq.com/lpadesignstudios)** | **[Mechanical Project Engineer](https://interviewchamp.ai/jobs/lpadesignstudios-mechanical-project-engineer-14f48ef0-4585-483f-ad5a-970b61aa706f?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Irvine, CA (Remote) | Remote | $100k–$155k | Oct 14 |
-| **[Firemon](https://jobs.lever.co/firemon)** | **[Customer Support Engineer](https://interviewchamp.ai/jobs/firemon-customer-support-engineer-55eed579-a00a-4d3c-a1ae-2e0ef9bd7063?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | USA, Remote | Remote |  | Oct 14 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-16 01:01 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-16 03:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
