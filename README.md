@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,166 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,164 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,166, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,164, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **3,166 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Pelico](https://jobs.ashbyhq.com/pelico)** | **[Lead DevOps Engineer](https://interviewchamp.ai/jobs/pelico-lead-devops-engineer-fc5444d3-ee85-4170-bc1e-a553b0d55dad?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US: Miami, Austin, or Boston (Remote) | Remote |  | Oct 16 |
 | **[Coinbase](https://www.coinbase.com)** | **[Staff Software Engineer, Backend - FinHub (Transfers)](https://interviewchamp.ai/jobs/coinbase-staff-software-engineer-backend-finhub-transfers-8287662?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $218k–$256.5k | Oct 16 |
 | **[Snowflake](https://snowflake.com)** | **[Staff Software Engineer — Engineering Systems, Continuous Integration](https://interviewchamp.ai/jobs/snowflake-staff-software-engineer-engineering-systems-continuous-integration-7a085d1a-9732-4322-a997-fb14dbce5a9c?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US-WA-Bellevue (Remote) | Remote | $236k–$339.2k | Oct 16 |
 | **[MGT Insurance](https://jobs.ashbyhq.com/mgtinsurance)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/mgtinsurance-senior-data-engineer-137899ca-78ee-45c0-979e-6170d3ab385e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Denver, CO (Remote) | Remote | $150k–$200k | Oct 16 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,166 are
 | **[Everpure](https://everpure.com)** | **[Senior Pre-Sales Systems Engineer, Commercial - Wisconsin](https://interviewchamp.ai/jobs/purestorage-senior-pre-sales-systems-engineer-commercial-wisconsin-8279218?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, Wisconsin | Remote | $141.4k–$212.1k | Oct 14 |
 | **[Tebra](https://job-boards.greenhouse.io/tebra)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/tebra-senior-software-engineer-4743714005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $159.3k | Oct 14 |
 | **[Rivian and Volkswagen Group Technologies](https://jobs.ashbyhq.com/rivianvw.tech)** | **[Sr. Embedded Software Engineer](https://interviewchamp.ai/jobs/rivianvw-tech-sr-embedded-software-engineer-b8f3847b-e656-4b0d-b26b-02d7b860be92?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto, California (Remote) | Remote | $146.9k–$220.3k | Oct 14 |
-| **[Flex](https://job-boards.greenhouse.io/flex)** | **[Senior Software Development Engineer in Test (SDET)](https://interviewchamp.ai/jobs/flex-senior-software-development-engineer-in-test-sdet-4743803005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Global | Remote | $136k–$170k | Oct 14 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-16 07:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-16 09:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
