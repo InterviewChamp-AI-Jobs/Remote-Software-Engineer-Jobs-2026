@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,243 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,239 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,243, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,239, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote software engineering roles, from employers' own career pages. **3,243 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/clera-senior-data-engineer-15cde70f-2130-4a0b-94f4-ade89dcbcb91?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 17 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Platform Software Engineer](https://interviewchamp.ai/jobs/clera-senior-platform-software-engineer-bc4a8412-a9d2-4813-8011-afc7496a127e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 17 |
+| **[Elorian](https://jobs.ashbyhq.com/elorian-ai-inc)** | **[Software Engineer - Core Platform](https://interviewchamp.ai/jobs/elorian-ai-inc-software-engineer-core-platform-902f441b-6ed6-43ac-bca6-453d959ac7ac?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto (Remote) | Remote | $300k–$450k | Oct 17 |
 | **[Abnormal](https://abnormal.ai)** | **[Software Engineer 1 - Cloud Infrastructure](https://interviewchamp.ai/jobs/abnormalsecurity-software-engineer-1-cloud-infrastructure-8015179003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $122.4k–$176k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Mid-Level Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-mid-level-robotics-engineer-autonomous-systems-344975dd-d080-48a6-b389-c6854aa86a79?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 17 |
 | **[Headway](https://jobs.ashbyhq.com/headway)** | **[Senior Engineering Manager (Infrastructure)](https://interviewchamp.ai/jobs/headway-senior-engineering-manager-infrastructure-91137d3f-1546-4f26-949b-4c079990f5cf?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $265.2k–$331.5k | Oct 17 |
@@ -102,8 +105,6 @@ Remote software engineering roles, from employers' own career pages. **3,243 are
 | **[Cloaked](https://jobs.ashbyhq.com/cloaked)** | **[Analytics Engineer, Semantic Layer](https://interviewchamp.ai/jobs/cloaked-analytics-engineer-semantic-layer-f749ab20-4fa2-45e8-8ef6-aba01f0a645e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York, NY (Remote) | Remote | $160k–$180k | Oct 16 |
 | **[MissionOne Media](https://job-boards.greenhouse.io/missiononemedia)** | **[Senior Software Engineer (Java Backend)](https://interviewchamp.ai/jobs/missiononemedia-senior-software-engineer-java-backend-6227078004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 16 |
 | **[BarkleyOKRP](https://job-boards.greenhouse.io/barkleyokrp)** | **[Senior Software Engineer (Java Backend)](https://interviewchamp.ai/jobs/barkleyokrp-senior-software-engineer-java-backend-6227076004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 16 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Integration Engineer](https://interviewchamp.ai/jobs/clera-senior-integration-engineer-6fd1b354-e99f-4e7f-b22a-15f794f95cfb?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 16 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-5cc7c36e-583c-4fc8-b793-5c7b7e40d7e0?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 16 |
 | **[Bridgeway Benefit Technologies](https://www.bridgewaybentech.com)** | **[Associate Platform Engineer](https://interviewchamp.ai/jobs/bridgeway-associate-platform-engineer-8894554002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 16 |
 | **[15five](https://jobs.lever.co/15five)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/15five-senior-devops-engineer-e155aa0e-6327-49d4-b601-854174cad3ba?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US, Remote | Remote | $115k–$140k | Oct 16 |
 | **[Kyverna](https://jobs.lever.co/Kyverna)** | **[Statistical Programmer Consultant](https://interviewchamp.ai/jobs/kyverna-statistical-programmer-consultant-4075ef2d-8ebe-422f-bb6f-b181b85cf02c?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 16 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,243 are
 | **[GuidePoint Security](https://boards.greenhouse.io/guidepointsecurity)** | **[Security Engineer- Corporate Information Security- Remote (Anywhere in the U.S.)](https://interviewchamp.ai/jobs/guidepointsecurity-security-engineer-corporate-information-security-remote-anywhere-in-the-u-s-6225726004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 15 |
 | **[Skydio](https://skydio.com)** | **[Director of Product Management, Platform & Infrastructure](https://interviewchamp.ai/jobs/skydio-director-of-product-management-platform-infrastructure-073e72a7-b7e1-4d7a-b64d-fade3c209fc9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Mateo, California, United States (Remote) | Remote | $240k–$290k | Oct 15 |
 | **[Affirm](https://affirm.com)** | **[Software Engineer I, Fullstack (Search)](https://interviewchamp.ai/jobs/affirm-software-engineer-i-fullstack-search-8017340003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote US | Remote | $130k–$180k | Oct 15 |
-| **[Docker](https://jobs.ashbyhq.com/docker)** | **[Senior Software Engineer, AI Gateway](https://interviewchamp.ai/jobs/docker-senior-software-engineer-ai-gateway-ed0ec3c2-aa74-4d81-97d9-f99e6b47d078?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA or Seattle, WA (Remote) | Remote |  | Oct 15 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 15:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 18:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
