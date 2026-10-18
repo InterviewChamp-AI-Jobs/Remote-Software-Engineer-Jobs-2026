@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,237 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,236 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,237, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,236, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **3,237 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clear Street](https://clearstreet.io)** | **[Senior / Staff Software Engineer, Mobile](https://interviewchamp.ai/jobs/clearstreet-senior-staff-software-engineer-mobile-8235079?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $150k–$250k | Oct 18 |
+| **[Clear Street](https://clearstreet.io)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/clearstreet-senior-data-engineer-8296139?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 18 |
 | **[Grafana Labs](https://grafana.com)** | **[Staff FrontEnd Engineer - Platform - App Core Usage \| US \| Remote](https://interviewchamp.ai/jobs/grafanalabs-staff-frontend-engineer-platform-app-core-usage-us-remote-6227872004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $175k–$210k | Oct 18 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Engineer, Software (R6331)](https://interviewchamp.ai/jobs/shieldai-staff-engineer-software-r6331-dd7070fb-bc02-4ab0-930f-c3c2e933353e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $140k–$210k | Oct 18 |
 | **[Beacon Software](https://jobs.ashbyhq.com/beaconsoftware)** | **[Lead Software Engineer](https://interviewchamp.ai/jobs/beaconsoftware-lead-software-engineer-85bd7418-4913-4486-8703-c1eee2f4226a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (US) | Remote |  | Oct 17 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,237 are
 | **[Lambda](https://jobs.ashbyhq.com/Lambda)** | **[Lead / Staff Full-Stack Software Engineer - Console Experience](https://interviewchamp.ai/jobs/lambda-lead-staff-full-stack-software-engineer-console-experience-2c8671ce-a9d3-453a-9753-5dc6d65c0b92?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Office (Fremont St) (Remote) | Remote | $349k–$465k | Oct 15 |
 | **[ShipBob, Inc.](https://shipbob.com)** | **[Solutions Engineer](https://interviewchamp.ai/jobs/shipbobinc-solutions-engineer-4733679005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | From $70k | Oct 15 |
 | **[Xero](https://jobs.ashbyhq.com/xero)** | **[Lead Engineer - Payments Platform](https://interviewchamp.ai/jobs/xero-lead-engineer-payments-platform-0f602c80-9375-4429-a424-2cdce4ef4bc6?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US: Washington Remote Worker | Remote | $206k–$260k | Oct 15 |
-| **[Samsara](https://samsara.com)** | **[Staff or Senior Firmware Engineer](https://interviewchamp.ai/jobs/samsara-staff-or-senior-firmware-engineer-8287656?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - SF Bay Area | Remote | $162.4k–$290k | Oct 15 |
-| **[Horizon3ai](https://jobs.ashbyhq.com/horizon3ai)** | **[Federal Senior Data Engineer](https://interviewchamp.ai/jobs/horizon3ai-federal-senior-data-engineer-fee5801f-4bde-41ae-b161-14c91665be31?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US, Remote | Remote | $199.8k–$235k | Oct 15 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 12:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 15:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
