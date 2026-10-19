@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,222 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,223 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,222, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,223, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **3,222 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Zeely](https://jobs.ashbyhq.com/zeely)** | **[Senior DevOps Engineer (Infrastructure)](https://interviewchamp.ai/jobs/zeely-senior-devops-engineer-infrastructure-4001f2b6-d3f0-440d-b2a2-1dbd6c2091c8?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 19 |
 | **[Nexxa](https://jobs.ashbyhq.com/nexxa)** | **[Senior Software Development Engineer in Test (SDET), QA - AI Systems](https://interviewchamp.ai/jobs/nexxa-senior-software-development-engineer-in-test-sdet-qa-ai-systems-21e899e9-9a45-4d34-838b-3b69256a27d7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | SF Bay area (Remote) | Remote |  | Oct 19 |
 | **[Anthropic](https://anthropic.com)** | **[Software Engineer, Memory & Search](https://interviewchamp.ai/jobs/anthropic-software-engineer-memory-search-5456453008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City, NY; New York City, NY \| Seattle, WA; Remote-Friendly, United States; San Francisco, CA \| New York City, NY \| Seattle, WA | Remote | $320k–$485k | Oct 19 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-robotics-engineer-autonomous-systems-4898a8e9-02d9-4a6d-b2b4-a337d0397b86?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 19 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,222 are
 | **[MaintainX](https://jobs.ashbyhq.com/maintainx)** | **[Principal Full-Stack Developer - Core](https://interviewchamp.ai/jobs/maintainx-principal-full-stack-developer-core-6c64b1bf-a3f3-42a0-a7a8-9bec68ac88f9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $170k–$296k | Oct 15 |
 | **[MaintainX](https://jobs.ashbyhq.com/maintainx)** | **[Principal Full-Stack Developer - Platform & Infrastructure](https://interviewchamp.ai/jobs/maintainx-principal-full-stack-developer-platform-infrastructure-fdebac55-0833-43e6-b1ac-d18a924bb3d1?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $170k–$296k | Oct 15 |
 | **[Intersect](https://jobs.lever.co/intersect)** | **[DCS And Automation Engineer](https://interviewchamp.ai/jobs/intersect-dcs-and-automation-engineer-ee5f3df6-e8e2-4a21-8446-aa83ef2d00a4?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 15 |
-| **[Addepar](https://addepar.com)** | **[Software Engineer - Customer Facing Applied AI](https://interviewchamp.ai/jobs/addepar1-software-engineer-customer-facing-applied-ai-8879308002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, USA | Remote | $163k–$203.5k | Oct 15 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-19 07:17 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-19 09:59 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
