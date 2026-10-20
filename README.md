@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,559 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,561 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,559, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,561, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **3,559 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Snorkel AI](https://snorkel.ai)** | **[Engineering Manager, Federal & Regulated Infrastructure](https://interviewchamp.ai/jobs/snorkelai-engineering-manager-federal-regulated-infrastructure-6229274004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA (Hybrid); United States (Remote) | Remote | $215k–$315k | Oct 20 |
+| **[OneApp](https://jobs.ashbyhq.com/oneapp)** | **[Software Engineer, Banking](https://interviewchamp.ai/jobs/oneapp-software-engineer-banking-18b45262-c4d8-4cbe-b773-f552c38223fa?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $150k–$220k | Oct 20 |
 | **[Speechify](https://speechify.com)** | **[Software Engineer, AI Data - San Francisco, CA, USA](https://interviewchamp.ai/jobs/speechify-software-engineer-ai-data-san-francisco-ca-usa-6229015004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 20 |
 | **[Speechify](https://speechify.com)** | **[Software Engineer, AI Data - Palo Alto, CA, USA](https://interviewchamp.ai/jobs/speechify-software-engineer-ai-data-palo-alto-ca-usa-6229016004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 20 |
 | **[Speechify](https://speechify.com)** | **[Software Engineer, AI Data - New York, NY, USA](https://interviewchamp.ai/jobs/speechify-software-engineer-ai-data-new-york-ny-usa-6229017004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 20 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,559 are
 | **[Chainguard](https://chainguard.dev)** | **[Principal Software Engineer, Containers](https://interviewchamp.ai/jobs/chainguard-principal-software-engineer-containers-4722145006?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $229k–$258k | Oct 16 |
 | **[Sofarocean](https://jobs.ashbyhq.com/sofarocean)** | **[Security & IT Engineer](https://interviewchamp.ai/jobs/sofarocean-security-it-engineer-84ed6790-5f44-49a3-9c33-6f85d6ae2cb9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Bay Area (Remote) | Remote | $150k–$200k | Oct 16 |
 | **[Instacart](https://instacart.com)** | **[Senior Sales Engineer](https://interviewchamp.ai/jobs/instacart-senior-sales-engineer-8292786?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $193k–$203.5k | Oct 16 |
-| **[Aurora Operations Inc](https://jobs.ashbyhq.com/aurora-operations-inc)** | **[Software Engineer II, Perception](https://interviewchamp.ai/jobs/aurora-operations-inc-software-engineer-ii-perception-70b6130c-1207-47bc-8bba-06ad3a1d4154?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Pittsburgh, PA (Remote) | Remote | $126k–$201k | Oct 16 |
-| **[Read AI](https://jobs.ashbyhq.com/read-ai)** | **[Software Engineer - Fullstack](https://interviewchamp.ai/jobs/read-ai-software-engineer-fullstack-6ea57d82-e8d4-4325-90b6-73886553f604?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Read AI - Seattle HQ (Remote) | Remote | $145k–$180k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-20 03:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-20 07:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
