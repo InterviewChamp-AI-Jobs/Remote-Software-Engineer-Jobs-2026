@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,561 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,567 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,561, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,567, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Remote software engineering roles, from employers' own career pages. **3,561 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Noda AI](https://jobs.ashbyhq.com/noda-ai)** | **[Senior Solution Engineer / Solution Architect](https://interviewchamp.ai/jobs/noda-ai-senior-solution-engineer-solution-architect-9fa2e827-54be-4488-b4d5-f34d61ebce35?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Austin (Remote) | Remote |  | Oct 20 |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Runtime Engineer](https://interviewchamp.ai/jobs/normalcomputing-runtime-engineer-2d03f84a-5b39-44e5-8010-39be87eb2e2f?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote | $200k–$300k | Oct 20 |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Compiler Backend Engineer](https://interviewchamp.ai/jobs/normalcomputing-compiler-backend-engineer-3499a660-f4fd-4e5c-af40-51fa9eea7fdc?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote | $200k–$300k | Oct 20 |
+| **[Sigma Computing](https://sigmacomputing.com)** | **[Enterprise Solution Engineer - South East / Mid Atlantic](https://interviewchamp.ai/jobs/sigmacomputing-enterprise-solution-engineer-south-east-mid-atlantic-8038715003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - US | Remote |  | Oct 20 |
+| **[Lucidlink](https://jobs.ashbyhq.com/lucidlink)** | **[Post Sales Solutions Engineer, US-East](https://interviewchamp.ai/jobs/lucidlink-post-sales-solutions-engineer-us-east-ef83087d-036d-4dd3-98d2-0c2818117006?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote | Remote | $120k–$150k | Oct 20 |
 | **[Snorkel AI](https://snorkel.ai)** | **[Engineering Manager, Federal & Regulated Infrastructure](https://interviewchamp.ai/jobs/snorkelai-engineering-manager-federal-regulated-infrastructure-6229274004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA (Hybrid); United States (Remote) | Remote | $215k–$315k | Oct 20 |
 | **[OneApp](https://jobs.ashbyhq.com/oneapp)** | **[Software Engineer, Banking](https://interviewchamp.ai/jobs/oneapp-software-engineer-banking-18b45262-c4d8-4cbe-b773-f552c38223fa?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $150k–$220k | Oct 20 |
 | **[Speechify](https://speechify.com)** | **[Software Engineer, AI Data - San Francisco, CA, USA](https://interviewchamp.ai/jobs/speechify-software-engineer-ai-data-san-francisco-ca-usa-6229015004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 20 |
@@ -177,12 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,561 are
 | **[Elicit](https://jobs.ashbyhq.com/elicit)** | **[Model Behavior Engineer, Reasoning and Decision Making](https://interviewchamp.ai/jobs/elicit-model-behavior-engineer-reasoning-and-decision-making-55f74344-9dc8-437d-97d0-99c8f14661e7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Oakland, CA (or remote within US timezones) | Remote |  | Oct 17 |
 | **[Elicit](https://jobs.ashbyhq.com/elicit)** | **[Senior Software Enginer, Data and Integrations](https://interviewchamp.ai/jobs/elicit-senior-software-enginer-data-and-integrations-f510dfce-6a55-48a3-885f-decb95a7a0ac?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Oakland, CA (or remote within US timezones) | Remote |  | Oct 17 |
 | **[GHX](https://ghx.com)** | **[Software Engineer II - Java, Spring, AWS, CI/CD](https://interviewchamp.ai/jobs/globalhealthcareexchangeinc-software-engineer-ii-java-spring-aws-ci-cd-4742669005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Office Location or Remote - USA | Remote | From $191k | Oct 16 |
-| **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Software Engineer, Full Stack — Dots](https://interviewchamp.ai/jobs/openai-software-engineer-full-stack-dots-dbe79b89-e593-44b3-8aec-c667f7134445?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote | $347k–$385k | Oct 16 |
-| **[Ethena](https://ethena.fi)** | **[Sales Engineer](https://interviewchamp.ai/jobs/ethena-sales-engineer-e4e50aed-ada3-47fa-875e-169ef416d93e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $125k–$150k | Oct 16 |
-| **[Chainguard](https://chainguard.dev)** | **[Principal Software Engineer, Containers](https://interviewchamp.ai/jobs/chainguard-principal-software-engineer-containers-4722145006?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $229k–$258k | Oct 16 |
-| **[Sofarocean](https://jobs.ashbyhq.com/sofarocean)** | **[Security & IT Engineer](https://interviewchamp.ai/jobs/sofarocean-security-it-engineer-84ed6790-5f44-49a3-9c33-6f85d6ae2cb9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Bay Area (Remote) | Remote | $150k–$200k | Oct 16 |
-| **[Instacart](https://instacart.com)** | **[Senior Sales Engineer](https://interviewchamp.ai/jobs/instacart-senior-sales-engineer-8292786?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $193k–$203.5k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-20 07:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-20 09:55 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
