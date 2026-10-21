@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,625 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,628 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,625, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,628, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **3,625 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[OnHires](https://jobs.ashbyhq.com/onhires)** | **[Senior Technical Trainer — Machine Learning Remote, worldwide](https://interviewchamp.ai/jobs/onhires-senior-technical-trainer-machine-learning-remote-worldwide-2532399f-f1de-4869-b919-1b0990f83dbe?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | USA (Remote) | Remote |  | Oct 21 |
+| **[OnHires](https://jobs.ashbyhq.com/onhires)** | **[Senior Technical Trainer — AI / DevOps Remote, worldwide](https://interviewchamp.ai/jobs/onhires-senior-technical-trainer-ai-devops-remote-worldwide-53d11172-6c16-4d97-acf5-04e24fb3b826?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | USA (Remote) | Remote |  | Oct 21 |
 | **[EDB](https://www.enterprisedb.com)** | **[NetSuite Developer cum Admin](https://interviewchamp.ai/jobs/edb-netsuite-developer-cum-admin-8033864003?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote |  | Oct 21 |
 | **[BridgeBio Pharma](https://job-boards.greenhouse.io/bridgebio)** | **[Principal Clinical Database Systems Programmer](https://interviewchamp.ai/jobs/bridgebio-principal-clinical-database-systems-programmer-5269882007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $172k–$188.6k | Oct 21 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-robotics-engineer-autonomous-systems-31eca2cc-4154-464f-991e-09fa5f4f66cc?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 21 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,625 are
 | **[Datasnipper](https://jobs.ashbyhq.com/datasnipper)** | **[Senior Software Engineer – Evidence Agents (Alwin by DataSnipper)](https://interviewchamp.ai/jobs/datasnipper-senior-software-engineer-evidence-agents-alwin-by-datasnipper-abaff28e-add0-43d4-967d-504193eda7da?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $225k–$235k | Oct 19 |
 | **[Datasnipper](https://jobs.ashbyhq.com/datasnipper)** | **[Senior Software Engineer – Agent Builder (Alwin by DataSnipper)](https://interviewchamp.ai/jobs/datasnipper-senior-software-engineer-agent-builder-alwin-by-datasnipper-e44a3051-775a-462d-8c8f-f2f9b015de4c?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $225k–$235k | Oct 19 |
 | **[Tenex](https://jobs.ashbyhq.com/tenex)** | **[Software Engineer II (REMOTE)](https://interviewchamp.ai/jobs/tenex-software-engineer-ii-remote-8d761b69-44ba-48c9-ae3c-33ab46fda0cf?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, USA | Remote |  | Oct 19 |
-| **[Temporal](https://jobs.ashbyhq.com/temporal)** | **[Staff Application Security Engineer](https://interviewchamp.ai/jobs/temporal-staff-application-security-engineer-c22959f0-eadf-4860-808b-a7c2c4e25712?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $144k–$236.3k | Oct 19 |
-| **[Ōura](https://ouraring.com)** | **[Senior Business Systems Engineer](https://interviewchamp.ai/jobs/oura-senior-business-systems-engineer-4455258009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote |  | Oct 19 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-21 07:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-21 09:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
