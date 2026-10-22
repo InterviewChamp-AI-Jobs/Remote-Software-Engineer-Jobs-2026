@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,676 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,678 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,676, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,678, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,10 +32,10 @@ Remote software engineering roles, from employers' own career pages. **3,676 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Research Engineer, Algorithms](https://interviewchamp.ai/jobs/normalcomputing-research-engineer-algorithms-5d98fdb7-41f6-4de5-b756-11a223fec0cb?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote |  | Oct 22 |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Mechanical Engineer, Hardware Systems](https://interviewchamp.ai/jobs/normalcomputing-mechanical-engineer-hardware-systems-5274c553-920a-4c10-8b86-24c98f52ca1d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote |  | Oct 22 |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Compiler Frontend Engineer](https://interviewchamp.ai/jobs/normalcomputing-compiler-frontend-engineer-ca0beabb-b825-4285-a292-3b8d0db44338?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote |  | Oct 22 |
+| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Firmware Engineer](https://interviewchamp.ai/jobs/normalcomputing-firmware-engineer-804fdbc0-7670-4ec7-b6d6-a059a78813d7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote |  | Oct 22 |
 | **[Xdof](https://jobs.ashbyhq.com/xdof)** | **[Robotics Platform Engineer](https://interviewchamp.ai/jobs/xdof-robotics-platform-engineer-172822f8-ad37-49f4-93b3-59eb5dfb45d9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Mateo Hybrid (Remote) | Remote |  | Oct 22 |
-| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[DFT Engineer](https://interviewchamp.ai/jobs/normalcomputing-dft-engineer-41b9c0fe-5483-4dba-a1a8-517d88c9a9ae?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote |  | Oct 22 |
-| **[Normalcomputing](https://jobs.ashbyhq.com/normalcomputing)** | **[Hardware Engineer, Performance Modeling](https://interviewchamp.ai/jobs/normalcomputing-hardware-engineer-performance-modeling-4b75d4ea-84f7-4d04-83a2-4ab2dc42abc9?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View (Remote) | Remote |  | Oct 22 |
 | **[Cyberhaven](https://cyberhaven.com)** | **[Senior Solutions Engineer](https://interviewchamp.ai/jobs/cyberhaven-senior-solutions-engineer-5d99f7d4-4ea0-49d3-b9cf-40d194cbdf10?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Illinois (Remote) | Remote |  | Oct 22 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-robotics-engineer-autonomous-systems-3c633635-2efe-450a-9d35-4ca44fc8ead7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 22 |
 | **[Zscaler](https://zscaler.com)** | **[Commercial Sales Engineer - East](https://interviewchamp.ai/jobs/zscaler-commercial-sales-engineer-east-5268700007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - Massachusetts, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - Virginia, USA | Remote | $105k–$150k | Oct 22 |
@@ -185,4 +185,4 @@ Remote software engineering roles, from employers' own career pages. **3,676 are
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-22 07:14 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-22 09:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
