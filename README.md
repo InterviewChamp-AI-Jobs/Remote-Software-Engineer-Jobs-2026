@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,757 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,759 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,757, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,759, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **3,757 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Terzo](https://job-boards.greenhouse.io/terzo)** | **[Senior Staff Platform Engineer](https://interviewchamp.ai/jobs/terzo-senior-staff-platform-engineer-4466722009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US - Remote | Remote |  | Oct 24 |
+| **[Smartleaf](https://jobs.ashbyhq.com/smartleaf)** | **[IT & Productivity Engineer](https://interviewchamp.ai/jobs/smartleaf-it-productivity-engineer-219c6d4e-ad6c-4aca-8b29-653a9715ed86?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Boston (Remote) | Remote | $100k–$150k | Oct 24 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Integration Engineer](https://interviewchamp.ai/jobs/clera-senior-integration-engineer-bb02b924-94f5-4b80-a51f-5510ab40a646?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 24 |
 | **[Reddit](https://reddit.com)** | **[Software Engineer, Ad Signals](https://interviewchamp.ai/jobs/reddit-software-engineer-ad-signals-8319655?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | $190.8k–$267.1k | Oct 24 |
 | **[Supabase](https://jobs.ashbyhq.com/supabase)** | **[Software Engineer - Storage](https://interviewchamp.ai/jobs/supabase-software-engineer-storage-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, Global | Remote |  | Oct 24 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,757 are
 | **[Commure](https://commure.com)** | **[Senior Software Engineer, Autonomous Revenue Operations](https://interviewchamp.ai/jobs/commure-senior-software-engineer-autonomous-revenue-operations-bf15fcda-9c4b-4a3b-9249-8714e1364d29?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View, CA (Remote) | Remote | $180k–$230k | Oct 22 |
 | **[Commure](https://commure.com)** | **[Senior Software Engineer, Claims Intelligence](https://interviewchamp.ai/jobs/commure-senior-software-engineer-claims-intelligence-7452f7af-6213-4d3a-847a-9664c6d07e2d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View, CA (Remote) | Remote | $180k–$230k | Oct 22 |
 | **[Commure](https://commure.com)** | **[Senior Software Engineer, Applied AI (RCM)](https://interviewchamp.ai/jobs/commure-senior-software-engineer-applied-ai-rcm-ad72cee4-6a9e-47ef-a959-91bb7847c263?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View, CA (Remote) | Remote | $180k–$230k | Oct 22 |
-| **[SandboxAQ](https://sandboxaq.com)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/sandboxaq-senior-devops-engineer-0e9eecfb-da2f-46f4-b7cc-da371428a7f4?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $122k–$228k | Oct 22 |
-| **[Superhuman Platform Inc](https://jobs.ashbyhq.com/superhuman%20platform%20inc)** | **[Data Engineer, Business Units - Go](https://interviewchamp.ai/jobs/superhuman-platform-inc-data-engineer-business-units-go-5e66c634-84e5-4d70-820f-361bf8d4a525?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Hub - San Francisco (Remote) | Remote | $117k–$205k | Oct 22 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 18:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 21:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
