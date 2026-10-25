@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,748 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,739 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,748, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,739, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Remote software engineering roles, from employers' own career pages. **3,748 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Ironclad](https://ironcladapp.com)** | **[Staff Software Engineer, Site Reliability](https://interviewchamp.ai/jobs/ironcladhq-staff-software-engineer-site-reliability-b9141554-16c2-4fbd-a555-4a95fc6677e1?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $210k–$235k | Oct 25 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-d1fb19d4-3e2e-4367-b24a-f397a16491eb?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 25 |
+| **[Mindly](https://jobs.ashbyhq.com/mindly)** | **[Middle Sortware Engineer](https://interviewchamp.ai/jobs/mindly-middle-sortware-engineer-ffbb73f1-634c-4a44-a045-7b046b776092?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 25 |
 | **[Terzo](https://job-boards.greenhouse.io/terzo)** | **[Senior Staff Platform Engineer](https://interviewchamp.ai/jobs/terzo-senior-staff-platform-engineer-4466722009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US - Remote | Remote |  | Oct 24 |
 | **[Smartleaf](https://jobs.ashbyhq.com/smartleaf)** | **[IT & Productivity Engineer](https://interviewchamp.ai/jobs/smartleaf-it-productivity-engineer-219c6d4e-ad6c-4aca-8b29-653a9715ed86?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Boston (Remote) | Remote | $100k–$150k | Oct 24 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Integration Engineer](https://interviewchamp.ai/jobs/clera-senior-integration-engineer-bb02b924-94f5-4b80-a51f-5510ab40a646?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 24 |
@@ -90,7 +93,6 @@ Remote software engineering roles, from employers' own career pages. **3,748 are
 | **[Vannevar](https://vannevar.ai)** | **[DevOps Engineer](https://interviewchamp.ai/jobs/vannevarlabs-devops-engineer-5273908007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote; Washington, District of Columbia, United States | Remote |  | Oct 23 |
 | **[Tabbed](https://jobs.ashbyhq.com/tabbed)** | **[Junior QA Engineer](https://interviewchamp.ai/jobs/tabbed-junior-qa-engineer-f9f9550b-620a-4ef0-8977-a8fe2f236b37?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $60k–$80k | Oct 23 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/clera-forward-deployed-engineer-8b41f16f-c1e3-4262-9eec-3476f1c6e31b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 23 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Agent Engineer](https://interviewchamp.ai/jobs/clera-agent-engineer-f9b12cf6-c7df-41d3-a7ea-dff977df2bda?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto (Remote) | Remote |  | Oct 23 |
 | **[Perfect Venue](https://jobs.ashbyhq.com/perfect-venue)** | **[Senior Full-Stack Engineer](https://interviewchamp.ai/jobs/perfect-venue-senior-full-stack-engineer-1deeb287-50d5-40cb-a415-3e5d52820668?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Office (Remote) | Remote | $160k–$200k | Oct 23 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Full Stack Software Engineer, Monetization Platform](https://interviewchamp.ai/jobs/openai-full-stack-software-engineer-monetization-platform-191e42f8-cd62-4082-8f72-505c26505e67?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $266k–$445k | Oct 23 |
 | **[Perfect Venue](https://jobs.ashbyhq.com/perfect-venue)** | **[Senior Backend Engineer/Infrastructure](https://interviewchamp.ai/jobs/perfect-venue-senior-backend-engineer-infrastructure-fd0d545d-7fd0-4014-8523-be27a04b9aae?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Office (Remote) | Remote | $160k–$200k | Oct 23 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,748 are
 | **[Abby Care](https://jobs.ashbyhq.com/abby-care)** | **[Senior Mobile Engineer (React Native)](https://interviewchamp.ai/jobs/abby-care-senior-mobile-engineer-react-native-7bde3315-b4b2-4d64-bdcd-8744df55dd12?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $170k–$240k | Oct 22 |
 | **[LTS](https://job-boards.greenhouse.io/lts)** | **[Application Packaging Engineer](https://interviewchamp.ai/jobs/lts-application-packaging-engineer-4454220009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $116k–$122k | Oct 22 |
 | **[Commure](https://commure.com)** | **[Senior Software Engineer, Autonomous Revenue Operations](https://interviewchamp.ai/jobs/commure-senior-software-engineer-autonomous-revenue-operations-bf15fcda-9c4b-4a3b-9249-8714e1364d29?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View, CA (Remote) | Remote | $180k–$230k | Oct 22 |
-| **[Commure](https://commure.com)** | **[Senior Software Engineer, Claims Intelligence](https://interviewchamp.ai/jobs/commure-senior-software-engineer-claims-intelligence-7452f7af-6213-4d3a-847a-9664c6d07e2d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View, CA (Remote) | Remote | $180k–$230k | Oct 22 |
-| **[Commure](https://commure.com)** | **[Senior Software Engineer, Applied AI (RCM)](https://interviewchamp.ai/jobs/commure-senior-software-engineer-applied-ai-rcm-ad72cee4-6a9e-47ef-a959-91bb7847c263?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Mountain View, CA (Remote) | Remote | $180k–$230k | Oct 22 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 15:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 18:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
