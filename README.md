@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,751 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,749 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,751, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,749, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -171,7 +171,7 @@ Remote software engineering roles, from employers' own career pages. **3,751 are
 | **[Snowflake](https://snowflake.com)** | **[Senior Software Engineer - Marketplace](https://interviewchamp.ai/jobs/snowflake-senior-software-engineer-marketplace-6aa02c13-d9db-4624-b4ce-cc467562e2ed?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US-CA-Menlo Park (Remote) | Remote | $200k–$287.5k | Oct 22 |
 | **[Red Cell Partners](https://job-boards.greenhouse.io/redcellpartners)** | **[Member of Technical Staff, Forward Deployed Engineer (New Stealth Startup)](https://interviewchamp.ai/jobs/redcellpartners-member-of-technical-staff-forward-deployed-engineer-new-stealth-startup-5268067007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (USA) | Remote | $150k–$300k | Oct 22 |
 | **[Skydio](https://skydio.com)** | **[Frontend Software Engineer Intern - Summer 2027](https://interviewchamp.ai/jobs/skydio-frontend-software-engineer-intern-summer-2027-89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Mateo, California, United States (Remote) | Remote |  | Oct 22 |
-| **[Develop Health](https://jobs.ashbyhq.com/develop-health)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/develop-health-senior-software-engineer-0f1f3cac-2723-4115-ba8e-ac3007818b20?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Bay Area (Remote) | Remote | $200k–$250k | Oct 22 |
+| **[Develop Health](https://jobs.ashbyhq.com/develop-health)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/develop-health-senior-software-engineer-0f1f3cac-2723-4115-ba8e-ac3007818b20?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Menlo Park (Remote) | Remote | $200k–$250k | Oct 22 |
 | **[Red Cell Partners](https://job-boards.greenhouse.io/redcellpartners)** | **[Member of Technical Staff, Platform Engineer (New Stealth Startup)](https://interviewchamp.ai/jobs/redcellpartners-member-of-technical-staff-platform-engineer-new-stealth-startup-5268063007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (USA) | Remote | $200k–$350k | Oct 22 |
 | **[Serhant](https://job-boards.greenhouse.io/serhant)** | **[Principal Data Engineer](https://interviewchamp.ai/jobs/serhant-principal-data-engineer-4464394009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, USA | Remote | From $180k | Oct 22 |
 | **[Adonis](https://jobs.ashbyhq.com/adonis)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/adonis-senior-software-engineer-6286397e-0c54-4947-86c5-e0f5c2389e77?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote | $190k–$210k | Oct 22 |
@@ -185,4 +185,4 @@ Remote software engineering roles, from employers' own career pages. **3,751 are
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 09:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 13:02 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
