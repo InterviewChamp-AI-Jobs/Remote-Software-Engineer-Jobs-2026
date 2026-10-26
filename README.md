@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,731 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,729 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,731, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,729, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **3,731 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Tessera Labs](https://jobs.ashbyhq.com/tessera-labs)** | **[Senior Data Platform Engineer](https://interviewchamp.ai/jobs/tessera-labs-senior-data-platform-engineer-6d6663c0-84b8-4373-857d-9e48bc1fc363?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, United States; San Jose, California, United States | Remote | $200k–$300k | Oct 26 |
 | **[Twilio](https://twilio.com)** | **[Senior Director, Developer Relations](https://interviewchamp.ai/jobs/twilio-senior-director-developer-relations-8093320?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - US | Remote |  | Oct 26 |
 | **[Airwallex](https://airwallex.com)** | **[Staff Product Security Engineer](https://interviewchamp.ai/jobs/airwallex-staff-product-security-engineer-d017c59d-2ea5-4f52-86af-3bbf67a34c0c?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US - San Francisco (Remote) | Remote | $220k–$280k | Oct 26 |
 | **[0G Labs](https://jobs.ashbyhq.com/0g)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/0g-senior-devops-engineer-a665fa1f-2a88-46e6-b3f2-94efc3ca9be1?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 26 |
@@ -39,7 +40,7 @@ Remote software engineering roles, from employers' own career pages. **3,731 are
 | **[Sisense](https://jobs.ashbyhq.com/sisense)** | **[Solutions Engineer](https://interviewchamp.ai/jobs/sisense-solutions-engineer-7c68ab81-771c-479b-aace-1426d208309f?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $75k–$104k | Oct 25 |
 | **[Ironclad](https://ironcladapp.com)** | **[Staff Software Engineer, Site Reliability](https://interviewchamp.ai/jobs/ironcladhq-staff-software-engineer-site-reliability-b9141554-16c2-4fbd-a555-4a95fc6677e1?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $210k–$235k | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-d1fb19d4-3e2e-4367-b24a-f397a16491eb?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 25 |
-| **[Mindly](https://jobs.ashbyhq.com/mindly)** | **[Middle Sortware Engineer](https://interviewchamp.ai/jobs/mindly-middle-sortware-engineer-ffbb73f1-634c-4a44-a045-7b046b776092?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 25 |
+| **[Mindly](https://jobs.ashbyhq.com/mindly)** | **[Middle Software Engineer](https://interviewchamp.ai/jobs/mindly-middle-software-engineer-ffbb73f1-634c-4a44-a045-7b046b776092?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 25 |
 | **[Terzo](https://job-boards.greenhouse.io/terzo)** | **[Senior Staff Platform Engineer](https://interviewchamp.ai/jobs/terzo-senior-staff-platform-engineer-4466722009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US - Remote | Remote |  | Oct 24 |
 | **[Smartleaf](https://jobs.ashbyhq.com/smartleaf)** | **[IT & Productivity Engineer](https://interviewchamp.ai/jobs/smartleaf-it-productivity-engineer-219c6d4e-ad6c-4aca-8b29-653a9715ed86?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Boston (Remote) | Remote | $100k–$150k | Oct 24 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Integration Engineer](https://interviewchamp.ai/jobs/clera-senior-integration-engineer-bb02b924-94f5-4b80-a51f-5510ab40a646?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 24 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,731 are
 | **[Develop Health](https://jobs.ashbyhq.com/develop-health)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/develop-health-senior-software-engineer-0f1f3cac-2723-4115-ba8e-ac3007818b20?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Menlo Park (Remote) | Remote | $200k–$250k | Oct 22 |
 | **[Red Cell Partners](https://job-boards.greenhouse.io/redcellpartners)** | **[Member of Technical Staff, Platform Engineer (New Stealth Startup)](https://interviewchamp.ai/jobs/redcellpartners-member-of-technical-staff-platform-engineer-new-stealth-startup-5268063007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (USA) | Remote | $200k–$350k | Oct 22 |
 | **[Serhant](https://job-boards.greenhouse.io/serhant)** | **[Principal Data Engineer](https://interviewchamp.ai/jobs/serhant-principal-data-engineer-4464394009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, USA | Remote | From $180k | Oct 22 |
-| **[Adonis](https://jobs.ashbyhq.com/adonis)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/adonis-senior-software-engineer-6286397e-0c54-4947-86c5-e0f5c2389e77?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote | $190k–$210k | Oct 22 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-26 07:19 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-26 10:06 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
