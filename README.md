@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,871 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,870 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,871, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,870, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **3,871 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Qdrant.tech](https://jobs.ashbyhq.com/qdrant.tech)** | **[Senior Developer Relations Engineer (San Francisco, Los Angeles)](https://interviewchamp.ai/jobs/qdrant-tech-senior-developer-relations-engineer-san-francisco-los-angeles-988b05e0-b044-4a91-b49e-33a117ed23a8?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote |  | Oct 29 |
 | **[NeuralConcept](https://neuralconcept.com)** | **[Platform Deployment Engineer - West Coast](https://interviewchamp.ai/jobs/neuralconcept-platform-deployment-engineer-west-coast-89039678-9741-4d0a-b99b-b2bb9f22e6c1?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | West Coast (San Francisco/Bay Area) (Remote) | Remote | $200k–$250k | Oct 29 |
 | **[JFrog](https://jfrog.com)** | **[Senior Professional Services DevOps Engineer](https://interviewchamp.ai/jobs/jfrog-senior-professional-services-devops-engineer-8285651?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, US | Remote | $150k–$180k | Oct 29 |
 | **[Coinbase](https://www.coinbase.com)** | **[Staff Machine Learning Engineer, Compliance Automation (Platform)](https://interviewchamp.ai/jobs/coinbase-staff-machine-learning-engineer-compliance-automation-platform-8333165?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $218k–$256.5k | Oct 29 |
@@ -102,7 +103,6 @@ Remote software engineering roles, from employers' own career pages. **3,871 are
 | **[Noda AI](https://jobs.ashbyhq.com/noda-ai)** | **[Senior Multidisciplinary Engineer – Recon Works](https://interviewchamp.ai/jobs/noda-ai-senior-multidisciplinary-engineer-recon-works-604b79f5-ee28-4738-b5dc-216732009c6a?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Washington, D.C. (Remote) | Remote |  | Oct 28 |
 | **[Orbital](https://jobs.ashbyhq.com/orbital)** | **[Technical Support Engineer](https://interviewchamp.ai/jobs/orbital-technical-support-engineer-34a2f3a7-011f-4d9d-9eb7-3d7e0b3377d5?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Los Angeles (Remote) | Remote | $95k–$105k | Oct 28 |
 | **[Focus](https://jobs.ashbyhq.com/focus)** | **[Technical Lead (Senior/Staff Software Engineer)](https://interviewchamp.ai/jobs/focus-technical-lead-senior-staff-software-engineer-33dc0284-ba36-4d87-a745-7ef2a877eb2e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $135k–$170k | Oct 28 |
-| **[Krakentech](https://jobs.ashbyhq.com/krakentech)** | **[Senior Analytics Engineer](https://interviewchamp.ai/jobs/krakentech-senior-analytics-engineer-0d66cd18-3a4c-4844-8069-3cb91ceacd8f?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 28 |
 | **[Myriad360](https://boards.greenhouse.io/myriad360)** | **[Senior AI Delivery Engineer (Remote)](https://interviewchamp.ai/jobs/myriad360-senior-ai-delivery-engineer-remote-8922045002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote |  | Oct 28 |
 | **[Thatch](https://thatch.com)** | **[Partner Engineer](https://interviewchamp.ai/jobs/thatch-partner-engineer-5462155008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Austin, Texas, United States; New York, New York, United States; Remote (US); San Francisco, California, United States | Remote | $160k–$195k | Oct 28 |
 | **[Boon](https://jobs.ashbyhq.com/boon)** | **[Senio Software Engineer](https://interviewchamp.ai/jobs/boon-senio-software-engineer-6cbeff98-b1a6-4d10-ad23-eb0d7a4b4e55?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $140k–$190k | Oct 28 |
@@ -185,4 +185,4 @@ Remote software engineering roles, from employers' own career pages. **3,871 are
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 10:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 13:26 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
