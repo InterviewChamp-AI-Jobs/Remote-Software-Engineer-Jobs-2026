@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,870 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,871 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,870, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,871, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **3,870 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[NeuralConcept](https://neuralconcept.com)** | **[Platform Deployment Engineer - West Coast](https://interviewchamp.ai/jobs/neuralconcept-platform-deployment-engineer-west-coast-89039678-9741-4d0a-b99b-b2bb9f22e6c1?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | West Coast (San Francisco/Bay Area) (Remote) | Remote | $200k–$250k | Oct 29 |
 | **[JFrog](https://jfrog.com)** | **[Senior Professional Services DevOps Engineer](https://interviewchamp.ai/jobs/jfrog-senior-professional-services-devops-engineer-8285651?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, US | Remote | $150k–$180k | Oct 29 |
 | **[Coinbase](https://www.coinbase.com)** | **[Staff Machine Learning Engineer, Compliance Automation (Platform)](https://interviewchamp.ai/jobs/coinbase-staff-machine-learning-engineer-compliance-automation-platform-8333165?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $218k–$256.5k | Oct 29 |
 | **[Livekit](https://jobs.ashbyhq.com/livekit)** | **[Senior Product Designer, Developer Platform](https://interviewchamp.ai/jobs/livekit-senior-product-designer-developer-platform-0684ae7c-4fd5-411e-a10c-3773e584cd97?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $184k–$250k | Oct 29 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,870 are
 | **[Healthie](https://job-boards.greenhouse.io/healthie)** | **[Analytics Engineer](https://interviewchamp.ai/jobs/healthie-analytics-engineer-4469749009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $155k–$185k | Oct 27 |
 | **[Accela](https://job-boards.greenhouse.io/accela)** | **[Technical Support Engineer](https://interviewchamp.ai/jobs/accela-technical-support-engineer-8318577?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote Based - US | Remote |  | Oct 27 |
 | **[iFIT](http://www.ifit.com)** | **[Lead Front-end Developer - E-commerce](https://interviewchamp.ai/jobs/ifit-lead-front-end-developer-e-commerce-4465484009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $120k–$140k | Oct 27 |
-| **[ThinkAhead](https://jobs.lever.co/thinkahead)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/thinkahead-senior-devops-engineer-19f1f5f1-4d28-4d0d-b047-b3f9b6031091?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $140k–$160k | Oct 27 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 07:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 10:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
