@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,867 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,870 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,867, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,870, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Remote software engineering roles, from employers' own career pages. **3,867 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[JFrog](https://jfrog.com)** | **[Senior Professional Services DevOps Engineer](https://interviewchamp.ai/jobs/jfrog-senior-professional-services-devops-engineer-8285651?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, US | Remote | $150k–$180k | Oct 29 |
+| **[Coinbase](https://www.coinbase.com)** | **[Staff Machine Learning Engineer, Compliance Automation (Platform)](https://interviewchamp.ai/jobs/coinbase-staff-machine-learning-engineer-compliance-automation-platform-8333165?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $218k–$256.5k | Oct 29 |
+| **[Livekit](https://jobs.ashbyhq.com/livekit)** | **[Senior Product Designer, Developer Platform](https://interviewchamp.ai/jobs/livekit-senior-product-designer-developer-platform-0684ae7c-4fd5-411e-a10c-3773e584cd97?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $184k–$250k | Oct 29 |
+| **[Airwallex](https://airwallex.com)** | **[Senior Network Engineer, San Francisco](https://interviewchamp.ai/jobs/airwallex-senior-network-engineer-san-francisco-7f8e4376-146e-49a5-8673-cc298552f6cc?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US - San Francisco (Remote) | Remote | $160k–$260k | Oct 29 |
 | **[Bayesian Health](https://bayesianhealth.com)** | **[Software Engineer, Data &amp; Analytics Platform](https://interviewchamp.ai/jobs/bayesianhealth-software-engineer-data-analytics-platform-3ea2fcfb-9a68-4b8d-a9aa-600a733ef655?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - US Only | Remote |  | Oct 29 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Software Engineer](https://interviewchamp.ai/jobs/clera-software-engineer-80b111f8-2cb3-4804-b45a-e0674d895152?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Oct 29 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Network Infrastructure Engineer, Global Network Infra (WAN)](https://interviewchamp.ai/jobs/openai-network-infrastructure-engineer-global-network-infra-wan-9f7371c4-e306-4a45-a400-aa2843fabd85?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $347k–$445k | Oct 29 |
@@ -178,11 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,867 are
 | **[Accela](https://job-boards.greenhouse.io/accela)** | **[Technical Support Engineer](https://interviewchamp.ai/jobs/accela-technical-support-engineer-8318577?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote Based - US | Remote |  | Oct 27 |
 | **[iFIT](http://www.ifit.com)** | **[Lead Front-end Developer - E-commerce](https://interviewchamp.ai/jobs/ifit-lead-front-end-developer-e-commerce-4465484009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $120k–$140k | Oct 27 |
 | **[ThinkAhead](https://jobs.lever.co/thinkahead)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/thinkahead-senior-devops-engineer-19f1f5f1-4d28-4d0d-b047-b3f9b6031091?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $140k–$160k | Oct 27 |
-| **[Coinbase](https://www.coinbase.com)** | **[Senior Sales Associate - CB Infrastructure](https://interviewchamp.ai/jobs/coinbase-senior-sales-associate-cb-infrastructure-8328079?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - USA | Remote | $195.7k–$230.2k | Oct 27 |
-| **[Quindar](https://jobs.ashbyhq.com/quindar)** | **[Sr. Software Engineer, Command &amp; Control](https://interviewchamp.ai/jobs/quindar-sr-software-engineer-command-control-d52070a1-887c-4a06-b6de-c1e84f683f96?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Denver, CO (Remote) | Remote | $155k–$190k | Oct 27 |
-| **[Assort Health](https://assorthealth.com)** | **[Voice Support Engineer](https://interviewchamp.ai/jobs/assorthealth-voice-support-engineer-85d0aabc-2f20-4ca7-bb87-be9f2bb5b750?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote |  | Oct 27 |
-| **[Newtonx](https://jobs.ashbyhq.com/newtonx)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/newtonx-senior-devops-engineer-563c1104-0d69-4a24-a7a7-33b27a247956?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 27 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 04:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 07:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
