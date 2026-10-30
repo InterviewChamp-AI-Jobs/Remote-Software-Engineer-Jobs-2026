@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,921 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,920 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,921, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,920, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -55,7 +55,6 @@ Remote software engineering roles, from employers' own career pages. **3,921 are
 | **[NeueHealth](https://job-boards.greenhouse.io/neuehealth)** | **[Frontend Software Engineer](https://interviewchamp.ai/jobs/neuehealth-frontend-software-engineer-6239057004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 29 |
 | **[ASG](https://job-boards.greenhouse.io/asg)** | **[AI Enablement Engineer](https://interviewchamp.ai/jobs/asg-ai-enablement-engineer-8716127002?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $200k–$225k | Oct 29 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Staff Software Engineer](https://interviewchamp.ai/jobs/natera-staff-software-engineer-6232923004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote | Remote | $152.1k–$190.1k | Oct 29 |
-| **[Natera](https://job-boards.greenhouse.io/natera)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/natera-senior-software-engineer-6232841004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote | Remote | $125k–$156.3k | Oct 29 |
 | **[Avantos AI](https://jobs.ashbyhq.com/avantos)** | **[Senior Software Engineer, AI Platform](https://interviewchamp.ai/jobs/avantos-senior-software-engineer-ai-platform-2f94ea3a-0ce7-4c41-8160-9355474e0890?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote |  | Oct 29 |
 | **[Vannevar](https://vannevar.ai)** | **[IT Endpoint Engineer](https://interviewchamp.ai/jobs/vannevarlabs-it-endpoint-engineer-5279809007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $85k–$125k | Oct 29 |
 | **[Inngest](https://jobs.ashbyhq.com/inngest)** | **[Developer Success Engineer](https://interviewchamp.ai/jobs/inngest-developer-success-engineer-33b9f4ae-3be8-4a00-8548-8a00c276fd88?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $130k–$170k | Oct 29 |
@@ -182,7 +181,8 @@ Remote software engineering roles, from employers' own career pages. **3,921 are
 | **[Redapt](https://job-boards.greenhouse.io/redapt)** | **[Senior Enterprise Account Executive (Enterprise Software Sales)](https://interviewchamp.ai/jobs/redapt-senior-enterprise-account-executive-enterprise-software-sales-5466296008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Las Vegas, Nevada, United States; US - Remote | Remote |  | Oct 28 |
 | **[Freed](https://jobs.ashbyhq.com/freed)** | **[GTM Engineer](https://interviewchamp.ai/jobs/freed-gtm-engineer-98bebab7-e2a7-4fe1-ba34-191c04164793?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $170k–$210k | Oct 28 |
 | **[Pinterest](https://pinterest.com)** | **[Sr. UX Engineer](https://interviewchamp.ai/jobs/pinterest-sr-ux-engineer-8015362?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA, USA; Remote, US | Remote | $155.6k–$320.3k | Oct 28 |
+| **[Parallel Wireless](https://parallelwireless.com)** | **[Principal Engineer, Stack](https://interviewchamp.ai/jobs/parallelwireless-principal-engineer-stack-92186ba1-83e7-4a46-9d33-01d13ac59d03?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US (Remote) | Remote |  | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-30 07:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-30 10:12 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
