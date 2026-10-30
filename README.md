@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **3,918 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **3,921 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 3,918, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 3,921, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **3,918 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Delinea](https://jobs.ashbyhq.com/delinea)** | **[Customer Success Engineer](https://interviewchamp.ai/jobs/delinea-customer-success-engineer-7f19d44c-8df7-4c93-9b69-d0870db15d69?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | U.S. Remote | Remote | $89.8k–$112.2k | Oct 30 |
+| **[Delinea](https://jobs.ashbyhq.com/delinea)** | **[Customer Success Engineer](https://interviewchamp.ai/jobs/delinea-customer-success-engineer-cae63b42-e885-4308-9b23-a14c50468abe?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | U.S. Remote | Remote | $89.8k–$112.2k | Oct 30 |
 | **[Plaid](https://plaid.com)** | **[Senior Infrastructure Engineer - Network Infrastructure](https://interviewchamp.ai/jobs/plaid-senior-infrastructure-engineer-network-infrastructure-a6324085-a7f8-4acd-9e36-a330a6249c4d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City Office (Remote) | Remote | $190.8k–$238.8k | Oct 30 |
 | **[Expensify](https://jobs.ashbyhq.com/expensify)** | **[Full Stack Engineer](https://interviewchamp.ai/jobs/expensify-full-stack-engineer-096ff7eb-2a55-4867-b0d1-b9c4743dc576?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Based - Remote | Remote | $150k–$250k | Oct 30 |
 | **[Skip](https://jobs.ashbyhq.com/Skip)** | **[Finance Engineer](https://interviewchamp.ai/jobs/skip-finance-engineer-ed985d71-151e-4c9d-aa1b-bd61dfd675f7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote |  | Oct 30 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **3,918 are
 | **[Redapt](https://job-boards.greenhouse.io/redapt)** | **[Senior Enterprise Account Executive (Enterprise Software Sales)](https://interviewchamp.ai/jobs/redapt-senior-enterprise-account-executive-enterprise-software-sales-5466296008?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Las Vegas, Nevada, United States; US - Remote | Remote |  | Oct 28 |
 | **[Freed](https://jobs.ashbyhq.com/freed)** | **[GTM Engineer](https://interviewchamp.ai/jobs/freed-gtm-engineer-98bebab7-e2a7-4fe1-ba34-191c04164793?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $170k–$210k | Oct 28 |
 | **[Pinterest](https://pinterest.com)** | **[Sr. UX Engineer](https://interviewchamp.ai/jobs/pinterest-sr-ux-engineer-8015362?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA, USA; Remote, US | Remote | $155.6k–$320.3k | Oct 28 |
-| **[Parallel Wireless](https://parallelwireless.com)** | **[Principal Engineer, Stack](https://interviewchamp.ai/jobs/parallelwireless-principal-engineer-stack-92186ba1-83e7-4a46-9d33-01d13ac59d03?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US (Remote) | Remote |  | Oct 28 |
-| **[Parallel Wireless](https://parallelwireless.com)** | **[Principal System Integration Engineer](https://interviewchamp.ai/jobs/parallelwireless-principal-system-integration-engineer-df4b4e97-0cfd-4887-8354-5497a4734b4b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US (Remote) | Remote |  | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-30 04:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-30 07:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
