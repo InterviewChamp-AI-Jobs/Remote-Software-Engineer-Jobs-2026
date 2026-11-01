@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **4,018 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **4,014 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,018, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 4,014, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **4,018 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Manifold Industries](https://jobs.ashbyhq.com/manifold-industries)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/manifold-industries-forward-deployed-engineer-f91ead63-e0b6-4763-82cc-a64424319c30?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | D.C. Metro (Remote) | Remote |  | Nov 1 |
 | **[Sparksoft Corporation](https://job-boards.greenhouse.io/sparksoftcorporation)** | **[Junior Technical Engineer](https://interviewchamp.ai/jobs/sparksoftcorporation-junior-technical-engineer-5281142007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote/Hybrid if local to Maryland | Remote |  | Oct 31 |
 | **[Elorian](https://jobs.ashbyhq.com/elorian-ai-inc)** | **[Software Engineer - Applications](https://interviewchamp.ai/jobs/elorian-ai-inc-software-engineer-applications-c8985274-7883-43ce-8135-c88e1f6f8832?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto (Remote) | Remote | $250k–$400k | Oct 31 |
 | **[Roboflow](https://jobs.ashbyhq.com/roboflow)** | **[GTM Systems Engineer](https://interviewchamp.ai/jobs/roboflow-gtm-systems-engineer-687549b2-b4b3-49ee-9e05-f0393e669db4?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | NY, SF or Remote (US) | Remote |  | Oct 31 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **4,018 are
 | **[Two Six Technologies](https://job-boards.greenhouse.io/twosixtechnologies)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/twosixtechnologies-senior-software-engineer-6236720004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, USA | Remote | $125k–$187.5k | Oct 29 |
 | **[DV Trading](https://job-boards.greenhouse.io/dvtrading)** | **[Trade Desk Support Engineer (Night Shift)](https://interviewchamp.ai/jobs/dvtrading-trade-desk-support-engineer-night-shift-4749057005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 29 |
 | **[Quizlet Inc](https://jobs.ashbyhq.com/quizlet-inc)** | **[Staff Cloud Security Engineer](https://interviewchamp.ai/jobs/quizlet-inc-staff-cloud-security-engineer-36edb6e2-c3d4-4a34-845b-5e733d850016?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA (Remote) | Remote | $200.5k–$263.1k | Oct 29 |
-| **[Vantage](https://jobs.ashbyhq.com/vantage)** | **[Growth Engineer](https://interviewchamp.ai/jobs/vantage-growth-engineer-a2f1c002-5615-4d9b-a992-693f5152ce31?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | USA (Remote) | Remote | $150k–$200k | Oct 29 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-01 06:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-01 16:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
