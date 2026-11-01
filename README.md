@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **4,020 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **4,018 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,020, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 4,018, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **4,020 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Sparksoft Corporation](https://job-boards.greenhouse.io/sparksoftcorporation)** | **[Junior Technical Engineer](https://interviewchamp.ai/jobs/sparksoftcorporation-junior-technical-engineer-5281142007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote/Hybrid if local to Maryland | Remote |  | Oct 31 |
 | **[Elorian](https://jobs.ashbyhq.com/elorian-ai-inc)** | **[Software Engineer - Applications](https://interviewchamp.ai/jobs/elorian-ai-inc-software-engineer-applications-c8985274-7883-43ce-8135-c88e1f6f8832?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto (Remote) | Remote | $250k–$400k | Oct 31 |
 | **[Roboflow](https://jobs.ashbyhq.com/roboflow)** | **[GTM Systems Engineer](https://interviewchamp.ai/jobs/roboflow-gtm-systems-engineer-687549b2-b4b3-49ee-9e05-f0393e669db4?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | NY, SF or Remote (US) | Remote |  | Oct 31 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/clera-forward-deployed-engineer-3e33b5cf-a2f8-4b2d-8117-e530faa5b9f0?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 31 |
@@ -57,7 +58,6 @@ Remote software engineering roles, from employers' own career pages. **4,020 are
 | **[Amira Learning](https://job-boards.greenhouse.io/amiralearning)** | **[Success Operations Engineer](https://interviewchamp.ai/jobs/amiralearning-success-operations-engineer-4474982009?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote-US | Remote |  | Oct 30 |
 | **[Rise8](https://job-boards.greenhouse.io/rise8)** | **[Senior Software Engineer (Palantir Foundry)](https://interviewchamp.ai/jobs/rise8-senior-software-engineer-palantir-foundry-5280776007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Oct 30 |
 | **[ITHAKA](https://www.ithaka.org)** | **[Principal Software Engineer](https://interviewchamp.ai/jobs/ithaka-principal-software-engineer-4749554005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote within the Continental United States | Remote | $129.1k–$161.3k | Oct 30 |
-| **[Natera](https://job-boards.greenhouse.io/natera)** | **[Senior Manager, Software Engineering — Case Management Platform](https://interviewchamp.ai/jobs/natera-senior-manager-software-engineering-case-management-platform-6239908004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote | Remote |  | Oct 30 |
 | **[Computer World Services](https://jobs.lever.co/cwsc)** | **[SharePoint Administrator / Power Platform Developer](https://interviewchamp.ai/jobs/cwsc-sharepoint-administrator-power-platform-developer-5aafd3ad-87db-492a-919c-53d524667360?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Scott AFB, IL (Remote) | Remote | $90k–$110k | Oct 30 |
 | **[MotherDuck](https://jobs.ashbyhq.com/MotherDuck)** | **[Software Engineer - Database](https://interviewchamp.ai/jobs/motherduck-software-engineer-database-111fd8f5-a8ad-4aa4-937f-79da7c2184db?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote | $180k–$260k | Oct 30 |
 | **[Redhorse](https://jobs.lever.co/redhorsecorp)** | **[Senior Ai/ML Engineer](https://interviewchamp.ai/jobs/redhorsecorp-senior-ai-ml-engineer-a371bf8c-3354-4f6f-89a1-66413e142cad?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $180k–$200k | Oct 30 |
@@ -185,4 +185,4 @@ Remote software engineering roles, from employers' own career pages. **4,020 are
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-31 21:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-01 06:27 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
