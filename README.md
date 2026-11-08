@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **4,223 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **4,217 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,223, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 4,217, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,13 +32,13 @@ Remote software engineering roles, from employers' own career pages. **4,223 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/clera-forward-deployed-engineer-ff86c115-30f4-46d1-b3ff-06f3154acabe?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Nov 8 |
+| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Agent Engineer](https://interviewchamp.ai/jobs/clera-agent-engineer-ee93f71d-c578-4cf9-880e-7478b74c9b48?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto (Remote) | Remote |  | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-28b62bdc-3d36-47eb-980d-4f52455cc3f2?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Dallas (Remote) | Remote | $180k–$250k | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-e2613ef0-b37c-42ab-aae2-3b47162a9401?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Chicago (Remote) | Remote | $180k–$250k | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-eb6318f2-957c-4d2b-8c44-054a0ef049a3?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Boston (Remote) | Remote | $180k–$250k | Nov 8 |
 | **[EXA](https://jobs.ashbyhq.com/exa)** | **[Support Engineer, PAYGO](https://interviewchamp.ai/jobs/exa-support-engineer-paygo-f4dd7ae8-cf72-4634-b708-742601b9061c?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $115k–$225k | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founding GTM Engineer](https://interviewchamp.ai/jobs/clera-founding-gtm-engineer-1d8087ac-ab49-4d51-aee5-0ab7e4b70809?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote |  | Nov 7 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Product Engineer, Consumer](https://interviewchamp.ai/jobs/clera-product-engineer-consumer-fc1fe232-e213-4a26-b9ec-aab365573476?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto (Remote) | Remote | $200k–$350k | Nov 7 |
-| **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founding Forward Deployed Engineer](https://interviewchamp.ai/jobs/clera-founding-forward-deployed-engineer-81f80a6b-9e8b-4c95-ba2c-353415d008fc?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $180k–$250k | Nov 7 |
 | **[Higgsfield](https://jobs.ashbyhq.com/higgsfieldai)** | **[Data Engineer](https://interviewchamp.ai/jobs/higgsfieldai-data-engineer-2fce2fe7-b554-4330-8fed-c59fa85f3415?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Bay Area, USA (Remote) | Remote | $200k–$260k | Nov 7 |
 | **[Valon](https://valon.com)** | **[Senior Product Manager, Product Infrastructure](https://interviewchamp.ai/jobs/valon-senior-product-manager-product-infrastructure-0f1fbd7d-e30d-4b8c-9e3d-04ff6bfd7638?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote | $200k–$235k | Nov 7 |
 | **[Siftstack](https://jobs.ashbyhq.com/siftstack)** | **[Senior Software Engineer, Backend (Agentic AI)](https://interviewchamp.ai/jobs/siftstack-senior-software-engineer-backend-agentic-ai-38350564-6a34-4c87-9f21-44e75b55da85?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco, CA (Remote) | Remote | $180k–$230k | Nov 7 |
@@ -185,4 +185,4 @@ Remote software engineering roles, from employers' own career pages. **4,223 are
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-08 13:43 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-08 19:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
