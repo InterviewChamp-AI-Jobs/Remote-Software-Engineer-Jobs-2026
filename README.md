@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **4,217 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **4,219 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,217, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 4,219, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,11 @@ Remote software engineering roles, from employers' own career pages. **4,217 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Wisdom AI](https://jobs.ashbyhq.com/Wisdom-AI)** | **[Agentic Context Engineer](https://interviewchamp.ai/jobs/wisdom-ai-agentic-context-engineer-4454073f-c342-4d12-85af-773ce20cf1d7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Nov 8 |
+| **[Rackner](https://job-boards.greenhouse.io/rackner)** | **[Software Automation &amp; Platform Engineer — Federal Health IT](https://interviewchamp.ai/jobs/rackner-software-automation-platform-engineer-federal-health-it-4752573005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote — United States | Remote |  | Nov 8 |
+| **[Rackner](https://job-boards.greenhouse.io/rackner)** | **[ServiceNow ITSM Engineer — Federal Health IT](https://interviewchamp.ai/jobs/rackner-servicenow-itsm-engineer-federal-health-it-4752571005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote — United States | Remote |  | Nov 8 |
+| **[Rackner](https://job-boards.greenhouse.io/rackner)** | **[Training Environment Engineer — Military Health IT (JOMIS)](https://interviewchamp.ai/jobs/rackner-training-environment-engineer-military-health-it-jomis-4752565005?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote — United States | Remote |  | Nov 8 |
+| **[Anduril Industries](https://anduril.com)** | **[Senior Supplier Industrialization Engineer, Composite Structures](https://interviewchamp.ai/jobs/andurilindustries-senior-supplier-industrialization-engineer-composite-structures-5079841007?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $161k–$212k | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/clera-forward-deployed-engineer-ff86c115-30f4-46d1-b3ff-06f3154acabe?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York (Remote) | Remote |  | Nov 8 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Agent Engineer](https://interviewchamp.ai/jobs/clera-agent-engineer-ee93f71d-c578-4cf9-880e-7478b74c9b48?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Palo Alto (Remote) | Remote |  | Nov 8 |
 | **[Harvey](https://jobs.ashbyhq.com/harvey)** | **[Associate Legal Engineer](https://interviewchamp.ai/jobs/harvey-associate-legal-engineer-28b62bdc-3d36-47eb-980d-4f52455cc3f2?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Dallas (Remote) | Remote | $180k–$250k | Nov 8 |
@@ -177,12 +182,7 @@ Remote software engineering roles, from employers' own career pages. **4,217 are
 | **[Chainguard](https://chainguard.dev)** | **[Staff Software Engineer, Chainguard Harness](https://interviewchamp.ai/jobs/chainguard-staff-software-engineer-chainguard-harness-4727461006?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States - Remote | Remote | $205k–$231k | Nov 6 |
 | **[Absentia Labs](https://jobs.ashbyhq.com/absentia-labs)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/absentia-labs-senior-data-engineer-c7937f5e-06ea-4508-b75e-9a8b441d0a33?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote | $115k–$200k | Nov 6 |
 | **[Absentia Labs](https://jobs.ashbyhq.com/absentia-labs)** | **[Senior AI/ML Engineer](https://interviewchamp.ai/jobs/absentia-labs-senior-ai-ml-engineer-a586e72a-6bdc-4131-9b14-0585db85d2f2?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Boston (Remote) | Remote | $155k–$200k | Nov 6 |
-| **[Instructure, Inc.](https://jobs.ashbyhq.com/instructure)** | **[Senior Analytics Engineer](https://interviewchamp.ai/jobs/instructure-senior-analytics-engineer-af01c88f-fb94-420b-85e8-2afbfb5b0213?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US-REMOTE | Remote | $145k–$155k | Nov 6 |
-| **[Livekit](https://jobs.ashbyhq.com/livekit)** | **[Security Engineer, Vulnerability Management](https://interviewchamp.ai/jobs/livekit-security-engineer-vulnerability-management-bea199b7-b040-43b8-89bc-34706b60ef8d?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $200k–$300k | Nov 5 |
-| **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Forward Deployed Engineer (FDE), Cyber - NYC](https://interviewchamp.ai/jobs/openai-forward-deployed-engineer-fde-cyber-nyc-9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York City (Remote) | Remote | $185k–$300k | Nov 5 |
-| **[Skip](https://jobs.ashbyhq.com/Skip)** | **[Exoskeleton Controls Engineer](https://interviewchamp.ai/jobs/skip-exoskeleton-controls-engineer-50843542-49f3-4032-9d5e-d1b9aabdad24?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco (Remote) | Remote |  | Nov 5 |
-| **[Blueberry Pediatrics](https://jobs.ashbyhq.com/blueberrypediatrics)** | **[Security Engineer](https://interviewchamp.ai/jobs/blueberrypediatrics-security-engineer-2b2e519a-5392-408d-8fb6-a4d6003667b7?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote, USA | Remote | $110k–$140k | Nov 5 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-08 19:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-09 01:01 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
