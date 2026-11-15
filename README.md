@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **4,319 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **4,315 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,319, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 4,315, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Remote software engineering roles, from employers' own career pages. **4,319 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Airwallex](https://airwallex.com)** | **[Senior Software Engineer, Data Platform &amp; AI Enablement](https://interviewchamp.ai/jobs/airwallex-senior-software-engineer-data-platform-ai-enablement-664bb020-bdda-4004-8e6e-b7d504123f9b?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US - Seattle (Remote) | Remote | $180k–$240k | Nov 15 |
 | **[Lambda](https://jobs.ashbyhq.com/Lambda)** | **[Software Engineer - Data Center Tooling](https://interviewchamp.ai/jobs/lambda-software-engineer-data-center-tooling-08addfcf-1466-4bea-a72e-07fb5b29fb97?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | San Francisco Office (Fremont St) (Remote) | Remote | $230k–$340k | Nov 14 |
 | **[Zuora](https://zuora.com)** | **[Customer Solution Engineer, Zuora + Workday Financial Management (FINS)](https://interviewchamp.ai/jobs/zuora-customer-solution-engineer-zuora-workday-financial-management-fins-8387830?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - United States | Remote | $109.5k–$193.2k | Nov 14 |
 | **[Samsara](https://samsara.com)** | **[Sr Software Engineer I/II, Operational AI](https://interviewchamp.ai/jobs/samsara-sr-software-engineer-i-ii-operational-ai-8223641?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote - US | Remote | $154.7k–$260k | Nov 14 |
@@ -181,8 +182,7 @@ Remote software engineering roles, from employers' own career pages. **4,319 are
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Sr. Forward Deployed Data Engineer](https://interviewchamp.ai/jobs/natera-sr-forward-deployed-data-engineer-6255111004?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | US Remote | Remote | $125k–$156.3k | Nov 12 |
 | **[Ditto](https://jobs.ashbyhq.com/ditto)** | **[Senior Software Engineer, Data Sync](https://interviewchamp.ai/jobs/ditto-senior-software-engineer-data-sync-32a73ba0-9e46-4871-bea8-d4ceab39ba88?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (Atlanta, Washington DC, San Francisco, | Remote | $188k–$259k | Nov 12 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[Staff Systems Engineer (R5982)](https://interviewchamp.ai/jobs/shield-staff-systems-engineer-r5982-a2edbbef-d0df-4025-ab04-14ce9161fa64?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Nov 12 |
-| **[Kaizen Labs](https://jobs.ashbyhq.com/kaizenlabs)** | **[AI/ML Engineer](https://interviewchamp.ai/jobs/kaizenlabs-ai-ml-engineer-9d7babf0-5bf7-4629-9d0c-f2095d4bf749?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | New York, NY (Remote) | Remote | $240k–$280k | Nov 12 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-15 06:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-15 16:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
