@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Remote software engineering roles, from employers' own career pages. **4,496 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Remote software engineering roles, from employers' own career pages. **4,486 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 4,496, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
+👉 **See all 4,486, with filters, free and with no login: [interviewchamp.ai/jobs/remote](https://interviewchamp.ai/jobs/remote?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Remote software engineering roles, from employers' own career pages. **4,496 are
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Walrusfi](https://jobs.ashbyhq.com/walrusfi)** | **[Senior Software Engineer (Full Stack)](https://interviewchamp.ai/jobs/walrusfi-senior-software-engineer-full-stack-aa6fd41d-bdbd-4e88-bf32-73af8aa3a662?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote (US) | Remote |  | Nov 28 |
+| **[Terac](https://jobs.ashbyhq.com/terac)** | **[Software Engineers\: Interview on AI Coding Tools](https://interviewchamp.ai/jobs/terac-software-engineers-interview-on-ai-coding-tools-9b04262b-2b03-4705-97af-d5bd6e84ac20?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote |  | Nov 28 |
 | **[Turquoise Health](https://jobs.ashbyhq.com/turquoise-health)** | **[Senior Solutions Engineer, Contracts](https://interviewchamp.ai/jobs/turquoise-health-senior-solutions-engineer-contracts-7cc24e7f-8f5d-4e24-a261-e81f09244061?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $145k–$170k | Nov 27 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Mid-Level Software Engineer (L2-L3)](https://interviewchamp.ai/jobs/clera-mid-level-software-engineer-l2-l3-bc92529c-ca1b-4fbb-b6c4-4e6ca7a8f540?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote | $140k–$160k | Nov 27 |
 | **[Clera](https://jobs.ashbyhq.com/Clera)** | **[Founding Engineer, Speech Model Training](https://interviewchamp.ai/jobs/clera-founding-engineer-speech-model-training-60c8b16f-e2ce-4ea7-b62f-2f3be1bc16bc?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | remote | Remote | $200k–$350k | Nov 27 |
@@ -180,9 +182,7 @@ Remote software engineering roles, from employers' own career pages. **4,496 are
 | **[Protege](https://jobs.ashbyhq.com/protege)** | **[Founding Evaluation Engineer](https://interviewchamp.ai/jobs/protege-founding-evaluation-engineer-8f8b2e96-290e-49ea-859b-68436b7dc662?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote |  | Nov 24 |
 | **[Coder](https://jobs.ashbyhq.com/coder)** | **[Senior Forward Deployed Engineer (United States)](https://interviewchamp.ai/jobs/coder-senior-forward-deployed-engineer-united-states-a13b2dc3-7b80-44ea-9c9f-20892c5dd0ef?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote | $160k–$246k | Nov 24 |
 | **[Specright](https://jobs.ashbyhq.com/specright)** | **[Senior Solutions Engineer](https://interviewchamp.ai/jobs/specright-senior-solutions-engineer-cc2c2dfb-2890-415d-90f8-f2a0ddc4e9ec?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | United States (Remote) | Remote |  | Nov 24 |
-| **[Inovalon](https://jobs.ashbyhq.com/Inovalon)** | **[Principal Software Engineer for Multiple Positions in Bowie, MD (&amp; Other U.S. Locations)](https://interviewchamp.ai/jobs/inovalon-principal-software-engineer-for-multiple-positions-in-bowie-md-other-u-s-locations-7a914b0a-f101-4b72-8b50-a44eda3b2fea?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Bowie, Maryland, United States (Remote) | Remote | $235.3k–$245.3k | Nov 24 |
-| **[Imprint](https://jobs.ashbyhq.com/imprint)** | **[Email Developer &amp; QA Specialist](https://interviewchamp.ai/jobs/imprint-email-developer-qa-specialist-5f04aa19-2276-46f3-97f8-4ecd44023a27?utm_source=github&utm_medium=referral&utm_campaign=remote_software_engineer_jobs)** | Remote | Remote | $150k–$180k | Nov 24 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-27 23:35 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-28 08:08 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
